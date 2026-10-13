@@ -246,6 +246,14 @@ def review_manifest(path: Path, check_online: bool) -> tuple[list[str], list[str
     return errors, warnings
 
 
+def ensure_utf8_output() -> None:
+    """Keep Unicode in diagnostics printable when stdout is redirected."""
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="backslashreplace")
+    except Exception:
+        pass
+
+
 def parse_args(argv=None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Strict automated review of registry manifests for PRs."
@@ -271,6 +279,7 @@ def parse_args(argv=None) -> argparse.Namespace:
 
 
 def main(argv=None) -> int:
+    ensure_utf8_output()
     args = parse_args(argv)
 
     if args.manifests:

@@ -181,6 +181,14 @@ def parse_args(argv=None) -> argparse.Namespace:
     return parser.parse_args(argv)
 
 
+def ensure_utf8_output() -> None:
+    """Keep Unicode in diagnostics printable when stdout is redirected."""
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="backslashreplace")
+    except Exception:
+        pass
+
+
 def emit_verdict(path: Path | None, lines: list[str]) -> None:
     if path is None:
         return
@@ -190,6 +198,7 @@ def emit_verdict(path: Path | None, lines: list[str]) -> None:
 
 
 def main(argv=None) -> int:
+    ensure_utf8_output()
     args = parse_args(argv)
 
     try:

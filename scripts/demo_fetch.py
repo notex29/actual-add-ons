@@ -42,6 +42,18 @@ def is_url(source: str) -> bool:
     return source.startswith(("http://", "https://"))
 
 
+def ensure_utf8_output() -> None:
+    """Make printing Unicode (e.g. author names) safe when stdout is piped.
+
+    On Windows a redirected stdout uses a legacy code page that cannot encode
+    characters like U+011F, crashing the listing. Reconfigure to UTF-8.
+    """
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="backslashreplace")
+    except Exception:
+        pass
+
+
 def load_registry(source: str) -> dict:
     """Load and parse the registry from a local path or URL.
 
@@ -131,6 +143,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
 
 
 def main(argv: list[str] | None = None) -> int:
+    ensure_utf8_output()
     args = parse_args(argv)
     try:
         registry = load_registry(args.source)

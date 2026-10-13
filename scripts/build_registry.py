@@ -57,6 +57,14 @@ class BuildError(Exception):
     """Raised when the registry cannot be built (missing inputs or bad data)."""
 
 
+def ensure_utf8_output() -> None:
+    """Keep Unicode in diagnostics printable when stdout is redirected."""
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="backslashreplace")
+    except Exception:
+        pass
+
+
 def load_manifest(path: Path) -> dict:
     """Read one manifest file. Raises ValueError with a readable message."""
     try:
@@ -221,6 +229,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
 
 
 def main(argv: list[str] | None = None) -> int:
+    ensure_utf8_output()
     args = parse_args(argv)
     try:
         registry = build_registry(args.addons_dir)

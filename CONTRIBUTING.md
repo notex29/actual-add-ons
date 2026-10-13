@@ -29,7 +29,7 @@ What happens next, without you doing anything:
 
 1. A workflow reads your issue, validates every field with the same strict reviewer that guards pull requests: no leftover template text, proper version formats, NVDA 2026.1 or newer, a real description in English, a sane download link.
 2. The author field is optional. Leave it empty and your GitHub username is used automatically, formatted as @you, so everyone knows whose brilliant work this is.
-3. If everything passes, the workflow writes `registry/addons/<your-id>.json`, opens a pull request with your manifest, links it to your issue, and closes the issue as done. Your issue literally becomes a pull request while you watch.
+3. If everything passes, the workflow writes `registry/addons/<your-id>.json`, opens a pull request with your manifest, links it to your issue, and closes the issue as done. Your issue literally becomes a pull request while you watch. The pull request then waits for a human to merge or refuse it. Robots gatekeep, humans decide.
 4. If anything fails, you get a comment listing exactly what is wrong, and the issue is closed. Fix it and open a new submission. No humans were bothered at any point in this process.
 
 One rule of the form: the add-on ID must be new. If the add-on is already listed and you want to update it, open a normal blank issue instead.
@@ -141,8 +141,8 @@ New version of your add-on? Update its file: bump `version`, update `download_ur
 1. A robot reviews your submission first. It checks for leftover template text, version formatting, the NVDA 2026.1 testing floor, description quality, and download-link sanity. If anything fails, the pull request is commented on and closed automatically. No human has to lift a finger, and no junk ever waits in the queue. Push fixes to your branch and reopen the PR for a fresh review.
 2. CI validates every manifest in the repository, not just yours. One bad file fails the whole build. This is by design and it is not up for debate.
 3. A human reads your submission against the agreement above. Humans are slower than CI but better at spotting video converters in disguise.
-4. If it passes, your file is merged and the index rebuilds automatically. Your add-on appears in `dist/index.json` without you lifting another finger.
-5. If a human finds a problem the robot missed, you get a comment explaining why. Fix it and push again. We do not bite. We do, however, close pull requests that still say "Your Name."
+4. If everything passes, the pull request is left open and a human merges it. Nothing here merges itself, ever. Merging is a manual human decision, full stop. Once merged, the index rebuilds automatically and your add-on appears in `dist/index.json` without you lifting another finger.
+5. If a human finds a problem the robot missed, the pull request is refused with a comment explaining why. Fix it and push again, or accept the verdict with grace. We do not bite. We do, however, close pull requests that still say "Your Name."
 
 ## FAQ
 
