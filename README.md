@@ -62,7 +62,7 @@ Every single one of those categories showed up in our starting dataset. Every si
 
 ## Contributing
 
-Want to add an add-on or fix an entry? See [CONTRIBUTING.md](CONTRIBUTING.md). 
+Want to add an add-on? Easiest way: fill in [the submission form](https://github.com/notex29/actual-add-ons/issues/new?template=addon-submission.yml) and a robot turns it into a pull request. Prefer doing it yourself? Full rules live in [CONTRIBUTING.md](CONTRIBUTING.md). 
 
 ## Rejection criteria
 

@@ -2,10 +2,11 @@
 
 So you want to add an add-on to the catalog. Good. We like ambition. We also like rules, because rules are what keep this catalog from turning back into the 350-entry junk drawer we rescued it from.
 
-Read this whole file. It is long on purpose. The catalog is small on purpose. These two facts are related.
+Read this whole file. It is long on purpose. The catalog is small on purpose. These two facts are related. (If forms are more your speed than forks, [the easiest path](#the-easiest-path-fill-in-a-form) is the very next section. We would never make you read all of this just to submit an add-on. Okay, we would, but we also made a shortcut.)
 
 ## Contents
 
+- [The easiest path: fill in a form](#the-easiest-path-fill-in-a-form)
 - [The agreement](#the-agreement)
 - [The lazy path: one click](#the-lazy-path-one-click)
 - [The careful path: fork and pull request](#the-careful-path-fork-and-pull-request)
@@ -15,6 +16,23 @@ Read this whole file. It is long on purpose. The catalog is small on purpose. Th
 - [Updating an existing entry](#updating-an-existing-entry)
 - [What happens after you open a pull request](#what-happens-after-you-open-a-pull-request)
 - [FAQ](#faq)
+
+## The easiest path: fill in a form
+
+Do not want to fork, clone, or learn what any of those words mean? Open this link:
+
+**[Submit an add-on (form)](https://github.com/notex29/actual-add-ons/issues/new?template=addon-submission.yml)**
+
+It opens a form asking for everything the catalog needs: the add-on ID, name, version, description, links, checksum, and versions. Fill it in, check every acknowledgment box (the form physically will not submit until you do), and hit submit. That is the whole process from your side.
+
+What happens next, without you doing anything:
+
+1. A workflow reads your issue, validates every field with the same strict reviewer that guards pull requests: no leftover template text, proper version formats, NVDA 2026.1 or newer, a real description in English, a sane download link.
+2. The author field is optional. Leave it empty and your GitHub username is used automatically, formatted as @you, so everyone knows whose brilliant work this is.
+3. If everything passes, the workflow writes `registry/addons/<your-id>.json`, opens a pull request with your manifest, links it to your issue, and closes the issue as done. Your issue literally becomes a pull request while you watch.
+4. If anything fails, you get a comment listing exactly what is wrong, and the issue is closed. Fix it and open a new submission. No humans were bothered at any point in this process.
+
+One rule of the form: the add-on ID must be new. If the add-on is already listed and you want to update it, open a normal blank issue instead.
 
 ## The agreement
 

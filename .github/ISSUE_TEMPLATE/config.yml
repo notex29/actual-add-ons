@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Add-on takedown request
+    url: https://github.com/notex29/actual-add-ons/issues/new
+    about: An author asking for their add-on to be removed. Just open a blank issue with proof of ownership, no form needed.

@@ -1,0 +1,126 @@
+name: Submit an add-on
+description: Propose a new add-on for the catalog. No forking required, a robot does the paperwork.
+title: "[submission] "
+labels: ["addon-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in every field and a robot will turn this issue into a pull request automatically.
+        Every acknowledgment box must be checked or the issue cannot even be submitted, and the robot re-checks everything anyway. Leftover template text, old NVDA versions, and short or non-English descriptions are refused on sight.
+
+  - type: input
+    id: addon-id
+    attributes:
+      label: Add-on ID
+      description: Short unique identifier. Letters, numbers, dots, dashes, underscores. Must not already be listed.
+      placeholder: speechHistory
+    validations:
+      required: true
+
+  - type: input
+    id: display-name
+    attributes:
+      label: Display name
+      description: Human-readable name of the add-on.
+      placeholder: Speech history review and copying
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Exact version of the file your download link points to (semver, e.g. 1.0.0 or 2026.1.0).
+      placeholder: 2026.1.0
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Author
+      description: Who made the add-on. Leave empty and your GitHub username will be used.
+      placeholder: Jane Doe (leave empty to use your GitHub username)
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Short English description of what the add-on does and who it helps. At least 30 characters of actual explanation.
+      placeholder: Review the most recent strings spoken by NVDA and copy them to the clipboard.
+    validations:
+      required: true
+
+  - type: input
+    id: homepage
+    attributes:
+      label: Homepage
+      description: Working http(s) link to the add-on's home, repository, or documentation.
+      placeholder: https://github.com/you/my-addon
+    validations:
+      required: true
+
+  - type: input
+    id: download-url
+    attributes:
+      label: Download URL
+      description: Direct http(s) link to the exact .nvda-addon file for the version above.
+      placeholder: https://github.com/you/my-addon/releases/download/v1.0.0/my-addon-1.0.0.nvda-addon
+    validations:
+      required: true
+
+  - type: input
+    id: sha256
+    attributes:
+      label: SHA-256 checksum
+      description: "64 lowercase hex characters of the add-on file. On Windows: certutil -hashfile file.nvda-addon SHA256. Copy it, do not recite it from memory."
+      placeholder: 60b04e5ca1b1ea390425dc0cc23cfde08383b99662337d5a7db6ab26de5d88a5
+    validations:
+      required: true
+
+  - type: input
+    id: min-nvda
+    attributes:
+      label: Minimum NVDA version
+      description: Oldest NVDA this works with (YYYY.N), or 0.0 for no minimum.
+      placeholder: 2026.1
+    validations:
+      required: true
+
+  - type: input
+    id: last-tested
+    attributes:
+      label: Last tested NVDA version
+      description: NVDA version it was tested against. Must be 2026.1 or newer.
+      placeholder: 2026.1.0
+    validations:
+      required: true
+
+  - type: input
+    id: last-updated
+    attributes:
+      label: Last updated
+      description: Entry date as YYYY-MM-DD. Leave empty and today will be used.
+      placeholder: 2026-10-13 (leave empty for today)
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: ack
+    attributes:
+      label: Acknowledgments
+      description: All boxes must be checked. The form will not submit otherwise, and the robot verifies again.
+      options:
+        - label: I acknowledge, with the full power of my remaining mental energy, that this add-on is my own work or is maintained with the author's blessing, and is not a repackaged copy of someone else's add-on.
+        - label: I acknowledge that my add-on is intended to enhance the screen reader itself (speech, braille, navigation, reading, OCR, input, or accessibility for a real application), and is not a standalone program smuggled into the catalog.
+        - label: I acknowledge that my add-on uses no external Python dependencies, or keeps them to the absolute minimum, and does not vendor half of PyPI into an NVDA plugin.
+        - label: "I acknowledge the size rule: if my add-on is bigger than the screen reader it plugs into, it gets rejected, and I have not done that."
+        - label: I acknowledge that the description above is in English, is at least 30 characters, and actually explains what the add-on does.
+        - label: I acknowledge that the add-on was tested on NVDA 2026.1 or newer, and the download link points at the exact .nvda-addon file for the stated version.
+        - label: I acknowledge that the SHA-256 above matches the file character for character, computed with a tool and copied carefully, not typed from memory.
+        - label: I acknowledge that this is not a media downloader, AI chatbot wrapper, game tool, system monitor, or generic utility Windows already provides, and that if it secretly is one of those things, a humorless robot will refuse it.
+    validations:
+      required: true
