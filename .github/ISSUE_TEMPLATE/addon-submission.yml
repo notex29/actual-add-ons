@@ -86,7 +86,7 @@ body:
     attributes:
       label: Minimum NVDA version
       description: Oldest NVDA this works with (YYYY.N), or 0.0 for no minimum.
-      placeholder: 2026.1
+      placeholder: "2026.1"
     validations:
       required: true
 
