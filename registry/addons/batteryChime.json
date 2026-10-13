@@ -1,0 +1,13 @@
+{
+  "id": "batteryChime",
+  "name": "BatteryChime",
+  "version": "1.1.0",
+  "author": "leo",
+  "description": "Get audio warnings when your battery is running low, plugged in, unplugged, or fully charged. Choose from 13 built-in sounds or your own WAV file for each event, and set your own warning percentages for low, critical, and emergency battery levels.",
+  "homepage": "https://github.com/belgarath534/BatteryChime",
+  "download_url": "https://github.com/belgarath534/BatteryChime/releases/download/v1.1.0/BatteryChime.nvda-addon",
+  "sha256": "de1753971fffae045df00a3645d173bd7fa2b777b234126b2551c19716e8d83a",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-21"
+}

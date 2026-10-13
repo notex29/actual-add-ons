@@ -1,0 +1,13 @@
+{
+  "id": "WordBridge",
+  "name": "WordBridge",
+  "version": "2026.9.3",
+  "author": "Coseeing Community Contributors, Woody Tseng",
+  "description": "helps users identify and correct homophone-based typos in Chinese.",
+  "homepage": "https://github.com/coseeing/WordBridge",
+  "download_url": "https://github.com/coseeing/WordBridge/releases/download/2026.9.3/WordBridge-2026.9.3.nvda-addon",
+  "sha256": "767790323b5242fcf180e6b1e57b610afd7ed80e33f2f4f06107809eac524b5c",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-25"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "clock",
+  "name": "Clock",
+  "version": "20260906.0.0",
+  "author": "Hrvoje Katic <hrvojekatic@gmail.com>, Abdel <abdelkrim.bensaid@gmail.com>",
+  "description": "An advanced clock and calendar for NVDA. NVDA+F12, get current time. NVDA+F12 pressed twice quickly, get current date. NVDA+F12 pressed three times quickly, reports the current day, the week number, the current year and the remaining days before the end of the year. For other instructions, press actions button in add-on store, then go to help.",
+  "homepage": "https://github.com/hkatic/clock",
+  "download_url": "https://github.com/hkatic/clock/releases/download/v26.09.06.00/clock-20260906.0.0.nvda-addon",
+  "sha256": "3eb1ef19ca78eeed4f77ccab187b3eea40a33e3a8b956bbd546e33a80209f4c0",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-06"
+}

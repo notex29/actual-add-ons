@@ -1,0 +1,13 @@
+{
+  "id": "RHVoice",
+  "name": "RHVoice",
+  "version": "1.18.201",
+  "author": "Zvonimir Stanecic, RHVoice contributors",
+  "description": "A speech synthesizer.",
+  "homepage": "https://rhvoice.org",
+  "download_url": "https://github.com/RHVoice/RHVoice/releases/download/1.18.2/RHVoice-1.18.201.nvda-addon",
+  "sha256": "f15a127a15b0bdd531d0cb95072ce8750b1399652917f8d192bed05eaf3ca7b9",
+  "min_nvda_version": "2021.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-04-30"
+}

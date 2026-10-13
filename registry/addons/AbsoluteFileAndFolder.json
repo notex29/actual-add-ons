@@ -1,0 +1,13 @@
+{
+  "id": "AbsoluteFileAndFolder",
+  "name": "AbsoluteFileAndFolder",
+  "version": "2026.10.0",
+  "author": "Chai Chaimee",
+  "description": "Absolute File and Folder boosts NVDA productivity by streamlining file and directory access via Windows Explorer integration. It lets users capture paths, organize bookmarks, filter files by extension, search history with audio cues, run scripts as admin, and restore active folders after a reboot. Hot Keys: Windows+Backspace Single Tap open AbsoluteFloder Double Tap open AbsoluteFile",
+  "homepage": "https://github.com/chaichaimee/AbsoluteFileAndFolder",
+  "download_url": "https://github.com/chaichaimee/AbsoluteFileAndFolder/releases/download/2026.10.0/AbsoluteFileAndFolder-v2026.10.0.nvda-addon",
+  "sha256": "274ce40dca4f594e3b5c93bea8e5aa0b1044ecb66191cb6a39bab65cebddcca3",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-10-02"
+}

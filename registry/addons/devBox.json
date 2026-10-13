@@ -1,0 +1,13 @@
+{
+  "id": "devBox",
+  "name": "Dev Box",
+  "version": "0.5.0",
+  "author": "addonWorkshop",
+  "description": "Adds useful features for developers (consecutive spaces folding, diff indication and more). Also could be useful for users who work with text.",
+  "homepage": "https://github.com/addonWorkshop/devBox",
+  "download_url": "https://github.com/addonWorkshop/devBox/releases/download/v0.5.0-dev/devBox-0.5.0.nvda-addon",
+  "sha256": "ee44a45de5f6a4bfe536e3b21faac265e1d377b0e8314af2efea4385a77fd5b0",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2027.1.0",
+  "last_updated": "2026-10-12"
+}

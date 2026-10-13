@@ -1,0 +1,13 @@
+{
+  "id": "AutoMaximize",
+  "name": "Automatically maximize application windows",
+  "version": "1.2.0",
+  "author": "tecwindow",
+  "description": "Automatically maximizes application windows to keep controls and interface elements visible and accessible. Especially useful for web-based applications and for creating clear video tutorials and screen recordings.",
+  "homepage": "https://github.com/tecwindow/AutoMaximize",
+  "download_url": "https://github.com/tecwindow/AutoMaximize/releases/download/v1.2/AutoMaximize-1.2.nvda-addon",
+  "sha256": "43c67bc8161f1f0c358d3b946ae19281e5056e7ddb7f0fbdb1cafc6a4d94519a",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-08-31"
+}

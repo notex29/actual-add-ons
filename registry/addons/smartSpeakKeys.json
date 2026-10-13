@@ -1,0 +1,13 @@
+{
+  "id": "smartSpeakKeys",
+  "name": "Smart Speak Keys Filter",
+  "version": "3.0.1",
+  "author": "Rosendo Barde Hubilla Jr. and Joseph Bautista",
+  "description": "Filters which keys are spoken when Speak Command Keys is enabled. Mimics JAWS behavior by suppressing NVDA command keys and customizable keys from being spoken.",
+  "homepage": "https://github.com/crucio2211/smartSpeakKeys",
+  "download_url": "https://github.com/crucio2211/smartSpeakKeys/releases/download/v3.0.1/smartSpeakKeys_v3.0.1.nvda-addon",
+  "sha256": "df0cb70a9017cdf88677af947a0d2afa59446124ae822c5efc3c51a61e11774e",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-10-08"
+}

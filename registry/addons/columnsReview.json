@@ -1,0 +1,13 @@
+{
+  "id": "columnsReview",
+  "name": "Columns Review",
+  "version": "5.7.0",
+  "author": "Alberto Buffolino",
+  "description": "A better experience with lists",
+  "homepage": "https://github.com/ABuffEr/columnsReview",
+  "download_url": "https://github.com/ABuffEr/columnsReview/releases/download/v5.7.0/columnsReview-5.7.0.nvda-addon",
+  "sha256": "1eb27533933d208a972cdc6dd12c91d8d49d6c4e35018a40e9303bba0d39b4b9",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-07-06"
+}

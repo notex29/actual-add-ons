@@ -1,0 +1,13 @@
+{
+  "id": "proxy",
+  "name": "Proxy support",
+  "version": "26.1.0",
+  "author": "jmdaweb",
+  "description": "This add-on allows NVDA connecting to the Internet through a proxy server.",
+  "homepage": "https://github.com/nvda-es/nvda-proxy-support",
+  "download_url": "https://github.com/nvda-es/nvda-proxy-support/releases/download/v26.1/proxy-26.1.nvda-addon",
+  "sha256": "6ee347b7c21e1a4353a119a8fa47da67c34be18ed2023cc25eecc8daeda3b34f",
+  "min_nvda_version": "2023.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-04-29"
+}

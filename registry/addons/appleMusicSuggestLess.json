@@ -1,0 +1,13 @@
+{
+  "id": "appleMusicSuggestLess",
+  "name": "Apple Music",
+  "version": "0.4.12",
+  "author": "serrebidev",
+  "description": "Navigate sections with F6 and Shift+F6, open sidebar pages and Settings with Control+1 through Control+6, search with Control+S, use Home and End in track lists, and play the focused track with Enter. Control+Alt+Down suggests less and Control+Alt+Up favorites and Control+Alt+Shift+Up removes favorites.",
+  "homepage": "https://github.com/serrebidev/AppleMusicNVDA",
+  "download_url": "https://github.com/serrebidev/AppleMusicNVDA/releases/download/v0.4.12/AppleMusic-0.4.12.nvda-addon",
+  "sha256": "11ec8a24f342bd898c3558f2f9808cabe7e0490ad76ca4925c6551846803d265",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2027.1.0",
+  "last_updated": "2026-10-09"
+}

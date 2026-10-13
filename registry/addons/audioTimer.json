@@ -1,0 +1,13 @@
+{
+  "id": "audioTimer",
+  "name": "Audio Timer",
+  "version": "0.11.0",
+  "author": "addonWorkshop",
+  "description": "Plays a sound at regular intervals. Recurrent / oneshot timers, multiple timers with different settings...",
+  "homepage": "https://github.com/addonWorkshop/audioTimer",
+  "download_url": "https://github.com/addonWorkshop/audioTimer/releases/download/v0.11.0-dev/audioTimer-0.11.0.nvda-addon",
+  "sha256": "afa2d70bcd7c9657055bca89512ab0f4ae6b895eb7919863b6ad98accf88d8ee",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-10"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "VLC",
+  "name": "VLC Media Player",
+  "version": "2026.1.2",
+  "author": "Javi Dominguez",
+  "description": "Provides some accessibility features for VLC Media Player, as improve navigation or read status bar",
+  "homepage": "https://github.com/javidominguez/VLC",
+  "download_url": "https://github.com/javidominguez/VLC/releases/download/2026.1.2/VLC-2026.1.2.nvda-addon",
+  "sha256": "23ed9bb7ff3e99d3928bd0981dafb22e4fa8eb5bbb67232f68067b06cbf93568",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-27"
+}

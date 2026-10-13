@@ -1,0 +1,13 @@
+{
+  "id": "translate",
+  "name": "Translate",
+  "version": "2026.8.24",
+  "author": "Yannick Plassiard, salmanf16",
+  "description": "An ultra-fast and lightweight online translation addon for NVDA. Originally created by Yannick Plassiard, this modified version has been optimized for rapid real-time translations using high-speed cloud engines. Special thanks and full credit go to the original developer for his exceptional work. Requires an internet connection.",
+  "homepage": "https://github.com/salmanf16/nvda-translate",
+  "download_url": "https://github.com/salmanf16/nvda-translate/releases/download/2026.08.24/translate.nvda-addon",
+  "sha256": "fd4489ab03b91b932cbf2159506c84b2a06d333bed89284fd72176d997b8b153",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-23"
+}

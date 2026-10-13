@@ -1,0 +1,13 @@
+{
+  "id": "zoomEnhancements",
+  "name": "Zoom Enhancements",
+  "version": "26.10.1",
+  "author": "josephsl",
+  "description": "An add-on which aims to enhance the experience while using Zoom and NVDA",
+  "homepage": "https://github.com/josephsl/zoom-enhancements",
+  "download_url": "https://github.com/josephsl/zoom-enhancements/releases/download/26.10/zoomEnhancements-26.10.1.nvda-addon",
+  "sha256": "bbd1169e09105b72bb1646a9b6c57832c48010ce23b3746e90b91fb52fb49ba1",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-10-03"
+}

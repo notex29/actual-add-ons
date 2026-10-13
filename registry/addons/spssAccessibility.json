@@ -1,0 +1,13 @@
+{
+  "id": "spssAccessibility",
+  "name": "SPSS Accessibility Plugin",
+  "version": "1.2.0",
+  "author": "Bouronikos Christos",
+  "description": "SPSS Accessibility Plugin improves IBM SPSS Statistics accessibility for blind and visually impaired users. Created by Bouronikos Christos, contact: chrisbouronikos@gmail.com. If this add-on helps you, please consider a kind donation via PayPal: https://paypal.me/christosbouronikos",
+  "homepage": "https://github.com/ChristosBouronikos/NVDA-SPSS-plugin",
+  "download_url": "https://github.com/ChristosBouronikos/NVDA-SPSS-plugin/releases/download/v1.2.0/spssAccessibility-1.2.0.nvda-addon",
+  "sha256": "c0c7b44cbd32e3091f6b1533733ce5f9361f344b943e19aaabe111b9f2212068",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-08-04"
+}

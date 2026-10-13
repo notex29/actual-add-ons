@@ -1,0 +1,13 @@
+{
+  "id": "AudioToggles",
+  "name": "AudioToggles",
+  "version": "2.0.0",
+  "author": "rajath tirumangalam",
+  "description": "Provides keyboard shortcuts to toggle system speaker mute and microphone mute using NVDA.",
+  "homepage": "https://github.com/rajathtirumangalam/AudioToggles",
+  "download_url": "https://github.com/rajathtirumangalam/AudioToggles/releases/download/v2.0/audioToggles.nvda-addon",
+  "sha256": "fbc194039e3e6c153db7194e131b4095a016cdbc90e5959420bccca25e337f2d",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-30"
+}

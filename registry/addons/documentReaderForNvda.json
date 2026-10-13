@@ -1,0 +1,13 @@
+{
+  "id": "documentReaderForNvda",
+  "name": "Document reader for NVDA",
+  "version": "1.0.0",
+  "author": "Sujan Rai",
+  "description": "A powerful NVDA add-on for accessible document reading with advanced features. Developed by Sujan Rai, this add-on allows you to read your document files directly within the NVDA screen reader. Often, we need to read document files, but uploading them to external servers can compromise your privacy. This add-on ensures that your documents are processed entirely locally, keeping your documents safe. Beyond simple document reading, this add-on provides a wealth of features for manipulation, accessibility, OCR, read-aloud capabilities, and much more. Supported documents: PDF, docx, epub. This add-on is the next generation add-on for the previous and outdated PDF reader add-on. For feedback and support, email: blindtechvisionary@gmail.com Join our official Telegram channel for more resources: https://t.me/blindtechvisionary Made and maintained in: Nepal. Thank you for using this add-on!",
+  "homepage": "https://github.com/blind-tech-nexus/document-reader-nvda-addon",
+  "download_url": "https://github.com/blind-tech-nexus/document-reader-nvda-addon/releases/download/1.0/document-reader-1.0.nvda-addon",
+  "sha256": "a6650c900a29ba58a4c85f6016bf64bc4338b185962a36ca1dbb316e960dc139",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-06-12"
+}

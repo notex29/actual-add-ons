@@ -1,0 +1,13 @@
+{
+  "id": "qbrailleXLWinUSB",
+  "name": "QBraille XL USB and Bluetooth driver",
+  "version": "1.5.0",
+  "author": "roundface",
+  "description": "Connects a HIMS QBraille XL / Braille EDGE compatible display through USB WinUSB or Bluetooth serial (SPP), with automatic detection.",
+  "homepage": "https://github.com/maydayrag/qbrailleXLWinUSB",
+  "download_url": "https://github.com/maydayrag/qbrailleXLWinUSB/releases/download/v1.5/qbrailleXLWinUSB-1.5.nvda-addon",
+  "sha256": "62cc8cecab4b85aa93b4b9c7e90138b4485ccb9965fc983b538d1d7c10068ef1",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-10-03"
+}

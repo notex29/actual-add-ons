@@ -1,0 +1,13 @@
+{
+  "id": "telegramDesktop",
+  "name": "Telegram Desktop Accessibility",
+  "version": "0.1.4",
+  "author": "Ken Chang",
+  "description": "Improves Telegram Desktop accessibility for NVDA users. Adds Alt+1 to move focus to the chat list, Alt+M to open Telegram's main menu, and Alt+Y, Alt+N, Alt+A and Alt+V to answer a call, hang up, mute the microphone and turn the camera on or off. The add-on uses Telegram's stable UIA class information and leaves Telegram's native accessible names unchanged.",
+  "homepage": "https://github.com/keyang556/tdesktopnvda",
+  "download_url": "https://github.com/keyang556/tdesktopnvda/releases/download/0.1.4/telegramDesktop-0.1.4.nvda-addon",
+  "sha256": "17767ab51040fa4457fff0b119c307d4bce536075f76227f98b83a41bb8f7fff",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.3.0",
+  "last_updated": "2026-08-31"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "xPand",
+  "name": "xPand",
+  "version": "2026.9.9",
+  "author": "Chai Chaimee",
+  "description": "xPand is a lightweight text-expansion add-on for NVDA that lets you define short codes for longer phrases. It features instant code expansion across diverse text editors and web browsers, smart editable field detection, a local settings manager with quick search, and automatic configuration storage with seamless legacy migration. Hot Keys: CTRL+F3 Single Tap : Open xPand AutoCorrect Double Tap : Open xPand Settings",
+  "homepage": "https://github.com/chaichaimee/xPand",
+  "download_url": "https://github.com/chaichaimee/xPand/releases/download/2026.9.9/xPand-v2026.9.9.nvda-addon",
+  "sha256": "14f8b30572f86d0b2778368415fcaa6bf0b8844edb2fa71dfec8011dfb897a84",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-07"
+}

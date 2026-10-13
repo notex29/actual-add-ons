@@ -1,0 +1,13 @@
+{
+  "id": "wordCount",
+  "name": "Count elements of the selected text",
+  "version": "2026.5.15",
+  "author": "Rui Fontes",
+  "description": "announces the number of words, characters and paragraphs of the selected text pressing Control+Shift+F12. It also can create a list of the words used, ordered by number of occcurrences or alphabetically, display the lines containing a word and finally move to a specific line, pressing Control+Shift+F11.",
+  "homepage": "https://github.com/ruifontes/wordcount",
+  "download_url": "https://github.com/ruifontes/wordCount/releases/download/2026.05.15/wordCount-2026.05.15.nvda-addon",
+  "sha256": "b3b5cdf20cb85bbd35fba33c93efedb211b800785da28795218e8c79ea49fb5f",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-15"
+}

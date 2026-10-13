@@ -1,0 +1,13 @@
+{
+  "id": "windowsOfProcess",
+  "name": "WindowsOfProcess",
+  "version": "2026.4.30",
+  "author": "沉浮 <394434124@qq.com>",
+  "description": "allows you to quickly switch between windows with the same process or different process",
+  "homepage": "https://www.nvdacn.com",
+  "download_url": "https://github.com/nvdacn/windowsOfProcess/releases/download/2026.4.30/windowsOfProcess-2026.4.30.nvda-addon",
+  "sha256": "d552ee44d5b99f9987cfa07da421ef65705ebb7a8d48783871a63685c0bf3043",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-04-30"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dengjen_neural_voices",
+  "name": "Dengjen Neural Voices",
+  "version": "4.0.1",
+  "author": "Ali Ustek",
+  "description": "Adds fast, local neural text-to-speech voices to NVDA. Provides a synthesizer driver for Piper voice models via the Sonata engine, together with a voice manager for downloading and installing voices.",
+  "homepage": "https://github.com/zirekhq/dengjen-nvda",
+  "download_url": "https://github.com/ZirekHQ/dengjen-nvda/releases/download/v4.0.1/dengjen_neural_voices-4.0.1.nvda-addon",
+  "sha256": "dd5cab8d1c10034e50cbc132164256c511a099216e5ad6b4c5fe849f8a4a5bc3",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-25"
+}

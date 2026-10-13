@@ -1,0 +1,13 @@
+{
+  "id": "enhanced_symbol_cycler",
+  "name": "Enhanced Symbol Cycler",
+  "version": "1.0.0",
+  "author": "JasperLee",
+  "description": "Allows you to choose which punctuation/symbol levels (none, some, most, all) are available when pressing NVDA+p to cycle between symbol levels.",
+  "homepage": "https://github.com/JasperLee-Lab/enhanced_symbol_cycler",
+  "download_url": "https://github.com/JasperLee-Lab/enhanced_symbol_cycler/releases/download/v1.0.0/enhanced_symbol_cycler-1.0.0.nvda-addon",
+  "sha256": "c195ce120d22baa98a87a02c7671aa1351c0e8c6a7c44e948ba1818d27bfa23c",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-06-12"
+}

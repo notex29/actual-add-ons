@@ -1,0 +1,13 @@
+{
+  "id": "tesseractOCR",
+  "name": "TesseractOCR: An OCR add-on",
+  "version": "2026.6.16",
+  "author": "Rui Fontes",
+  "description": "Performs OCR on the selected image file, PDF, JPG, TIF, etc, or a document through a scanner and also can get the text from an accessible PDF file. The results are shown in a text file. Windows+Control+r - Performs OCR to the selected image file Windows+Control+w - Scans and recognize the document in the scanner Windows+Control+t - To get the text from an accessible PDF",
+  "homepage": "https://github.com/ruifontes/tesseractOCR",
+  "download_url": "https://github.com/ruifontes/tesseractOCR/releases/download/2026.06.16/tesseractOCR-2026.06.16.nvda-addon",
+  "sha256": "442e0af159d74edb3091e4af5b2b9c461d51664697dd8ca27a01cb6d19da3bc3",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-06-17"
+}

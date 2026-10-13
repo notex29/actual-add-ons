@@ -1,0 +1,13 @@
+{
+  "id": "ribbonMenu",
+  "name": "Ribbon Menu",
+  "version": "1.1.0",
+  "author": "Alexandru Vida",
+  "description": "Navigate the Microsoft Office Ribbon as a classic menu, with arrows, Enter and Escape.",
+  "homepage": "https://github.com/squalorso/ribbonMenu",
+  "download_url": "https://github.com/squalorso/ribbonMenu/releases/download/1.1.0/ribbonMenu-1.1.0.nvda-addon",
+  "sha256": "e7a7642246b3b188670333f3801676259d11d9e3789e1e45736b4ad499a829d8",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-08-31"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "IndentNav",
+  "name": "IndentNav",
+  "version": "2.2.9",
+  "author": "mltony",
+  "description": "Indentation Navigation addon. It allows NVDA users to navigate by indentation level or offset of lines or paragraphs. Also while editing source code in many programming languages, it allows to jump between the lines of the same indentation level, as well as quickly find lines with greater or lesser indentation level.",
+  "homepage": "https://github.com/mltony/nvda-indent-nav",
+  "download_url": "https://github.com/mltony/nvda-indent-nav/releases/download/v2.2.9/IndentNav-2.2.9.nvda-addon",
+  "sha256": "20c1ba042865d2b0143ba327b5900e17807e4f4b416bbf0c6b29194ae6ac2e12",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-06-27"
+}

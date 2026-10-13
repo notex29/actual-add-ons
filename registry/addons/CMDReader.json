@@ -1,0 +1,13 @@
+{
+  "id": "CMDReader",
+  "name": "CMDReader",
+  "version": "2026.8.8",
+  "author": "Chai Chaimee",
+  "description": "Automatically reads new output in Command Prompt, PowerShell, and Windows Terminal in real-time. Features instant audio notifications for terminal states and errors, customizable error keywords, a dedicated NVDA settings panel for privacy management, and live session shadow history scrolling without disrupting your workflow. Hot Keys: CTRLALT+L : Open CMDReader File ctrl+alt+up arrow : Read the previous line ctrl+alt+down arrow : Read the next line",
+  "homepage": "https://github.com/chaichaimee/CMDReader",
+  "download_url": "https://github.com/chaichaimee/CMDReader/releases/download/2026.8.8/CMDReader-v2026.8.8.nvda-addon",
+  "sha256": "75a8da98041ecbd882d2abb7775482479c728b33119a530330be7375f15238cd",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-19"
+}

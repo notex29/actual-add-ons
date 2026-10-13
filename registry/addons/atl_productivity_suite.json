@@ -1,0 +1,13 @@
+{
+  "id": "atl_productivity_suite",
+  "name": "ATL Productivity Suite",
+  "version": "2.1.0",
+  "author": "Accessible tech labs India",
+  "description": "An enterprise-grade, accessibility-first global plugin engineered by Accessible Tech Labs India. Designed for visually impaired professionals, this Version 2.1 release transforms NVDA into the ultimate high-performance workstation assistant. Featuring 8 highly optimized utilities including a Pomodoro Focus Stopwatch, Advanced Sentinel Security Scanner, Voice-Assisted Alarms, Smart Workspace Launcher, and seamless Google Quick Search. You can press NVDA+Shift+M to instantly access the centralized ATL Master Menu. The ATL Suite delivers unparalleled speed, 100% privacy, security, and digital inclusion directly through your screen reader environment.",
+  "homepage": "https://accessibletechlabsindia.github.io",
+  "download_url": "https://github.com/accessibletechlabsindia/atl-productivity-suite/releases/download/v2.1.0/atl_productivity_suite.nvda-addon",
+  "sha256": "e97b6eb92efc8ec535243436fb5f14c3193021126d8d7e35673fc2d0e720a66c",
+  "min_nvda_version": "2021.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-16"
+}

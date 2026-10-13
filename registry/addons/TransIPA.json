@@ -1,0 +1,13 @@
+{
+  "id": "TransIPA",
+  "name": "Reporting the International Phonetic Alphabet in Braille",
+  "version": "1.2.4",
+  "author": "Cary-rowen <manchen_0528@outlook.com>",
+  "description": "This add-on allows NVDA to report the International Phonetic Alphabet using braille dots. Switch gesture NVDA+Shift+P.",
+  "homepage": "https://www.nvdacn.com",
+  "download_url": "https://github.com/cary-rowen/TransIPA/releases/download/v1.2.4/TransIPA-1.2.4.nvda-addon",
+  "sha256": "37f1496d314ae1b1fa25920f1aba7925a546b0c7e891304be00b97f3aba001e3",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-04-30"
+}

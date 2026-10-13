@@ -1,0 +1,13 @@
+{
+  "id": "tonysEnhancements",
+  "name": "Tony's enhancements",
+  "version": "1.22.5",
+  "author": "mltony",
+  "description": "Various NVDA enhancements.",
+  "homepage": "https://github.com/mltony/nvda-tonys-enhancements",
+  "download_url": "https://github.com/mltony/nvda-tonys-enhancements/releases/download/v1.22.5/tonysEnhancements-1.22.5.nvda-addon",
+  "sha256": "19c1b6d404ce0b6539ece1595ada4ab231eb991c9891af082c1bd136a796b140",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-06-27"
+}

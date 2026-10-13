@@ -1,0 +1,13 @@
+{
+  "id": "enhancedAnnotations",
+  "name": "Enhanced Annotations",
+  "version": "23.0.0",
+  "author": "nvdaes",
+  "description": "Adds ability to move the cursor to additional details, and back to the original element, in browse mode. This has been requested at https://github.com/nvaccess/nvda/issues/13940",
+  "homepage": "https://github.com/nvdaes/enhancedAnnotations",
+  "download_url": "https://github.com/nvdaes/enhancedAnnotations/releases/download/23.0.0/enhancedAnnotations-23.0.0.nvda-addon",
+  "sha256": "85b29a27ee77451710c37bf52241c63d2a77387baeac0d62ecf7fc1d44a448e3",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-08-26"
+}

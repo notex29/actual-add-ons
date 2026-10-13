@@ -1,0 +1,13 @@
+{
+  "id": "SiteMarker",
+  "name": "SiteMarker",
+  "version": "2026.10.0",
+  "author": "Chai Chaimee",
+  "description": "SiteMarker streamlines web navigation for NVDA users by bookmarking specific webpage elements for instant access. Key features include site and marker managers, customizable search scopes, and automatic element clicking for hard to reach buttons, saving time on complex pages. Hot Keys: Windows+F12 Single Tap : Add or Edit Marker Double Tap : open Site Manager Triple Tap : open Marker Manager",
+  "homepage": "https://github.com/chaichaimee/SiteMarker",
+  "download_url": "https://github.com/chaichaimee/SiteMarker/releases/download/2026.10.0/SiteMarker-v2026.10.0.nvda-addon",
+  "sha256": "bb200ed599128f04375eb0ca3734c62d6974b1d32b3519ba19878eff4eceeed3",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-15"
+}

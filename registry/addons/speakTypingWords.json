@@ -1,0 +1,13 @@
+{
+  "id": "speakTypingWords",
+  "name": "Typed Word Speaking Enhancement",
+  "version": "2026.0.1",
+  "author": "Javi Dominguez",
+  "description": "NVDA reads the entire word when it is modified, instead of just the added part, which is the default behavior.",
+  "homepage": "https://github.com/javidominguez/speakTypingWords",
+  "download_url": "https://github.com/javidominguez/speakTypingWords/releases/download/2026.0.1/speakTypingWords-2026.0.1.nvda-addon",
+  "sha256": "af7a9c935b5358efb5cc61ebf44e3808c85167c54f65fd26c56b692529958cb0",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-10"
+}

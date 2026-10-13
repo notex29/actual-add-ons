@@ -1,0 +1,13 @@
+{
+  "id": "invisinote",
+  "name": "invisinote",
+  "version": "1.7.0",
+  "author": "ClippyCat",
+  "description": "Invisinote is an NVDA add-on for reading plain-text notes without leaving the application you are working in. No window opens and focus never moves: the notes are loaded into memory and you browse them entirely with keyboard gestures, while the app you are in keeps the focus. Folders and notes: - NVDA+ALT+P: open the current folder in File Explorer - NVDA+ALT+[: previous folder - NVDA+ALT+]: next folder - NVDA+ALT+N: load the notes in the current folder - NVDA+ALT+U: previous note - NVDA+ALT+O: next note Reading: - NVDA+ALT+SHIFT+A: read the whole note - NVDA+ALT+I: previous line - NVDA+ALT+K: next line - NVDA+ALT+J: previous word - NVDA+ALT+L: next word - NVDA+ALT+,: previous character - NVDA+ALT+.: next character - NVDA+ALT+H: start of line - NVDA+ALT+': end of line - NVDA+ALT+Space: render the note as Markdown and read it in a browse-mode window Copying: - NVDA+ALT+A: copy the whole note - NVDA+ALT+;: copy the current line - NVDA+ALT+F9: set the selection start at the current position - NVDA+ALT+F10: set the selection end; press twice to copy the selection - NVDA+ALT+BACKSPACE: clear the selection markers Encoding: - NVDA+ALT+E: switch to the next note encoding - NVDA+ALT+SHIFT+E: switch to the previous note encoding Settings live in NVDA's Settings dialog (NVDA+CTRL+S) under the Invisinote category. An Open Invisinote settings command that jumps straight to that category is available in NVDA's Input Gestures dialog, under the invisinote category, if you would like to assign a shortcut of your own.",
+  "homepage": "https://github.com/ClippyCat/invisinote",
+  "download_url": "https://github.com/ClippyCat/invisinote/releases/download/v1.7/invisinote-1.7.nvda-addon",
+  "sha256": "e6f152e3a6b9bd10bac16afc9632da4759d3cac098af8631f445524b4e2de1e4",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-04"
+}

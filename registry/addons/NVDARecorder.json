@@ -1,0 +1,13 @@
+{
+  "id": "NVDARecorder",
+  "name": "NVDA recorder",
+  "version": "2026.5.10",
+  "author": "Rui Fontes",
+  "description": "Record in a text document all the speechs of NVDA, except in SayAll, and shows it in a dialog. Turn on/off with Alt+NumPad Plus.",
+  "homepage": "https://github.com/ruifontes/NVDARecorder",
+  "download_url": "https://github.com/ruifontes/NVDARecorder/releases/download/2026.05.10/NVDARecorder-2026.05.10.nvda-addon",
+  "sha256": "b1830d25c3c6370f4194c883f005f89105aebdfc67bc175a2f10e285e09962b0",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-10"
+}

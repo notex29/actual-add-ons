@@ -1,0 +1,13 @@
+{
+  "id": "NVDACNMirror",
+  "name": "NVDA Chinese Community Update Mirror",
+  "version": "0.7.3",
+  "author": "zh-yx, Cary-rowen, hwf1324 <support@nvdacn.com>",
+  "description": "This update mirror source is provided for NVDA Chinese community users. It can enhance the update speed of NVDA, improve the search and download speed of the add-on store, and resolve issues where certain network operators are unable to download add-ons from the add-on store, thus effectively improving user experience.",
+  "homepage": "https://www.nvdacn.com",
+  "download_url": "https://dl.nvdacn.com/NVDA-Addons/New/NVDACNMirror-0.7.3.nvda-addon",
+  "sha256": "d67d34555400579bd1bb86df40d4f7ecf9467913e81c9c7933d3a2635435f40d",
+  "min_nvda_version": "2022.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-04-30"
+}

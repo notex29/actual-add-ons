@@ -1,0 +1,13 @@
+{
+  "id": "Unspoken-ng",
+  "name": "Unspoken-ng 3D Audio",
+  "version": "2.5.0",
+  "author": "fastfinge",
+  "description": "Adds 3D audio for controls and replaces control messages. This updated version uses OpenAL Soft and is only compatible with NVDA 2026.1 and later.",
+  "homepage": "https://github.com/fastfinge/unspoken-ng",
+  "download_url": "https://github.com/fastfinge/unspoken-ng/releases/download/2.5/Unspoken-ng-2.5.nvda-addon",
+  "sha256": "49090cf98ef66eb9eab191d0f7901e1f58ef2c72592c48ea028554acc5e61f4f",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.3.0",
+  "last_updated": "2026-08-20"
+}

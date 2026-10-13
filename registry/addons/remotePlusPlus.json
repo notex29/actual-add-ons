@@ -1,0 +1,13 @@
+{
+  "id": "remotePlusPlus",
+  "name": "Remote++",
+  "version": "1.0.0",
+  "author": "Cary-rowen <cary-rowen@outlook.com>",
+  "description": "Enhances NVDA Remote with productivity features for power users.",
+  "homepage": "https://github.com/cary-rowen/remotePlusPlus",
+  "download_url": "https://github.com/cary-rowen/remotePlusPlus/releases/download/v1.0.0/remotePlusPlus-1.0.0.nvda-addon",
+  "sha256": "2e9b6b912e12234163c751f0dbaf3fa2a73d723c1f3c06b9c60ce7d3c336108c",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-09-25"
+}

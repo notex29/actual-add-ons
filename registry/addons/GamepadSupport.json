@@ -1,0 +1,13 @@
+{
+  "id": "GamepadSupport",
+  "name": "Gamepad Support",
+  "version": "2026.5.0",
+  "author": "Shunxian Wu",
+  "description": "Provides gamepad gesture support",
+  "homepage": "https://www.nvdacn.com",
+  "download_url": "https://github.com/w-sx/GamepadSupport/releases/download/2026.5/GamepadSupport-2026.5.nvda-addon",
+  "sha256": "e81c033b3f91ec1ffab45d8ac04bc882a0a8745f794b7932d62466006afb238c",
+  "min_nvda_version": "0.0",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-10"
+}

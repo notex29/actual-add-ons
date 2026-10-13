@@ -1,0 +1,13 @@
+{
+  "id": "discordMessageHotkeys",
+  "name": "Discord Message Hotkeys",
+  "version": "0.9.0",
+  "author": "Leos",
+  "description": "Read the last 10 messages in the current Discord channel with Alt+1 (newest) through Alt+0 (10th newest). Press the same key twice quickly to reply to that message. Alt+D moves focus to the first unread message (the 'New messages' marker). Alt+Shift+N cycles auto-reading of incoming messages in the open channel (off, polite, interrupt); the default is also set in NVDA Settings. NVDA+Ctrl+Shift+F10 saves a structure dump to the Downloads folder for debugging. Outside a channel the hotkeys warn quickly instead of hanging. The message-list search is bounded, time-limited, and cached so it cannot freeze NVDA.",
+  "homepage": "https://github.com/Leos-Khai/discord-message-hotkeys",
+  "download_url": "https://github.com/Leos-Khai/discord-message-hotkeys/releases/download/v0.9.0/discordMessageHotkeys-v0.9.0.nvda-addon",
+  "sha256": "8f0736f2d7029c72fbc254d3ad78f76a06875ada90216571ee6194779948c160",
+  "min_nvda_version": "2022.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-05"
+}

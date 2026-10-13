@@ -1,0 +1,13 @@
+{
+  "id": "pcKbBrl",
+  "name": "PC Keyboard Braille Input",
+  "version": "51.0.0",
+  "author": "nvdaes",
+  "description": "Allows braille to be entered via the PC keyboard.",
+  "homepage": "https://github.com/nvdaes/pcKbBrl",
+  "download_url": "https://github.com/nvdaes/pcKbBrl/releases/download/51.0.0/pcKbBrl-51.0.0.nvda-addon",
+  "sha256": "d7fd9e297bb0a62b8013951e503479a5f46c9a1b201b9b83223923dfe761ee3d",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-08-26"
+}

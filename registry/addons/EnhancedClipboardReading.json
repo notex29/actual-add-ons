@@ -1,0 +1,13 @@
+{
+  "id": "EnhancedClipboardReading",
+  "name": "Enhanced Clipboard Reading",
+  "version": "3.0.0",
+  "author": "Nikola Jović",
+  "description": "Enhances the default NVDA+C command to read the clipboard with a configurable character limit instead of the hardcoded value of no more than 1023. If there is more text on the clipboard than the configured limit, presents the clipboard text in a browseable message for easier reviewing, instead of saying that the clipboard contains a large portion of text. A browseable message can also be opened at any time by pressing NVDA+C three times quickly, even if there is less text on the clipboard than the configured limit. Pressing NVDA+Y will announce the number of characters on the clipboard, which will also be shown in the title of the browseable messages.",
+  "homepage": "https://github.com/nidza07/Enhanced-Clipboard-Reading",
+  "download_url": "https://github.com/nidza07/Enhanced-Clipboard-Reading/releases/download/3.0/EnhancedClipboardReading-3.0.nvda-addon",
+  "sha256": "f700031f59d80f2d036e7d8c66864ec4ea31e1db7da30a8f4475946032e1c546",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-13"
+}

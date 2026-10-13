@@ -1,0 +1,13 @@
+{
+  "id": "enhancedDuck",
+  "name": "Enhanced Duck",
+  "version": "0.1.1",
+  "author": "Prateek Kumar",
+  "description": "Extends NVDA audio ducking with focus-aware modes for ducking active or inactive application windows.",
+  "homepage": "https://github.com/Glowing-Radiant/enhanced-duck",
+  "download_url": "https://github.com/Glowing-Radiant/enhanced-duck/releases/download/v0.1.1/enhancedDuck-0.1.1.nvda-addon",
+  "sha256": "2c1554eb84f680d4597752c0a5a29cad959a2e60bbd92533871f1d7a069d40c0",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-17"
+}

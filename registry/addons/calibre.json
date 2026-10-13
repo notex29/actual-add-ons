@@ -1,0 +1,13 @@
+{
+  "id": "calibre",
+  "name": "Calibre accessibility enhancements",
+  "version": "2026.3.1",
+  "author": "Javi Dominguez",
+  "description": "Provides some accessibility enhancements for the interface of Calibre eBook Management",
+  "homepage": "https://github.com/javidominguez/calibre",
+  "download_url": "https://github.com/javidominguez/Calibre/releases/download/2026.3.1/calibre-2026.3.1.nvda-addon",
+  "sha256": "8b9e4587a3329ec72fc1e65bd7866a4b33afcf08e588f5c34d3935d569f306c5",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-27"
+}

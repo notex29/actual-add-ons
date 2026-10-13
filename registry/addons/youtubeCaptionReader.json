@@ -1,0 +1,13 @@
+{
+  "id": "youtubeCaptionReader",
+  "name": "YouTube Caption Reader",
+  "version": "1.0.2",
+  "author": "Im Seongho",
+  "description": "Reads changing captions in YouTube videos. Uses the browser accessibility tree and adaptive streaming speech for NVDA users.",
+  "homepage": "https://github.com/sheldon-im/nvda-youtube-caption-reader",
+  "download_url": "https://github.com/sheldon-im/nvda-youtube-caption-reader/releases/download/v1.0.2/youtubeCaptionReader-1.0.2.nvda-addon",
+  "sha256": "617ac9815a93901b076edae3eef9b4a6389a8bfc79fca47667c086ff9b13c7d4",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-08-17"
+}

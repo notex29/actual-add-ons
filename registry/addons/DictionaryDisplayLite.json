@@ -1,0 +1,13 @@
+{
+  "id": "DictionaryDisplayLite",
+  "name": "DictionaryDisplayLite",
+  "version": "2026.9.9",
+  "author": "Chai Chaimee",
+  "description": "DictionaryDisplayLite makes managing NVDA speech dictionaries faster and quieter. It condenses list announcements, adds a quick menu, and provides a custom voice dictionary editor with search, validation, and reordering. Hot Keys: Control+Shift+D Single Tap : Open the Voice dictionary dialog Double Tap : Open the Default dictionary dialog Triple Tap (or more) : Open the Temporary dictionary dialog Shift+Windows+D Single Tap : Open the DictionaryDisplayLite quick menu Double Tap : Open Search and Edit Voice Dictionary directly",
+  "homepage": "https://github.com/chaichaimee/DictionaryDisplayLite",
+  "download_url": "https://github.com/chaichaimee/DictionaryDisplayLite/releases/download/2026.9.9/DictionaryDisplayLite-v2026.9.9.nvda-addon",
+  "sha256": "7b70b1b0c93f86b47b0c401f9b78461021d4d51cb2446752cc5df8f8a4f4d995",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-09"
+}

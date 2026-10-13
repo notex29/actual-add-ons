@@ -1,0 +1,13 @@
+{
+  "id": "lastItemAnnouncer",
+  "name": "Last Item Announcer",
+  "version": "2.0.0",
+  "author": "Jan Balák",
+  "description": "Announces the last item in HTML lists (ul/ol/dl). Provides configurable position info; item-number counting and nesting-level announcements. Full support for definition lists (a.k.a. description lists): I/Shift+I pair navigation; term/definition labels; item-count correction. Works in browse mode (web) and in applications.",
+  "homepage": "https://nvda-addons.janbalak.name/last-item-announcer/cs",
+  "download_url": "https://github.com/jaxcze/Last-item-announcer/releases/download/v2.0.0/lastItemAnnouncer-2.0.0.nvda-addon",
+  "sha256": "7a58a2256006ec8aca24d9715f6dd54c424bf0d1ce1db993de948f821dd91d29",
+  "min_nvda_version": "2022.1",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-09-03"
+}

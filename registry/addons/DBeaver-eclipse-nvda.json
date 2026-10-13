@@ -1,0 +1,13 @@
+{
+  "id": "DBeaver-eclipse-nvda",
+  "name": "DBeaver Eclipse NVDA",
+  "version": "2026.1.0",
+  "author": "Jean Braz",
+  "description": "Enhance the speech and braille support while using the Eclipse IDE and DBeaver reportings errors and warnings.",
+  "homepage": "https://github.com/jeanbrazcosta/DBeaver-eclipse-nvda",
+  "download_url": "https://github.com/jeanbrazcosta/DBeaver-eclipse-nvda/releases/download/v2026.1.0/DBeaver-eclipse-nvda-2026.1.0.nvda-addon",
+  "sha256": "f759355d3a392ddda1fd794ad4c806aa65d53b5cc27f48ba19f39f97f24841c6",
+  "min_nvda_version": "2021.1",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-05-30"
+}

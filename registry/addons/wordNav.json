@@ -1,0 +1,13 @@
+{
+  "id": "wordNav",
+  "name": "WordNav",
+  "version": "2.2.15",
+  "author": "Tony Malykh <anton.malykh@gmail.com>",
+  "description": "Improved navigate by word and word selection commands.",
+  "homepage": "https://github.com/mltony/nvda-word-nav/releases",
+  "download_url": "https://github.com/mltony/nvda-word-nav/releases/download/v2.2.15/wordNav-2.2.15.nvda-addon",
+  "sha256": "52f1cc143d5ac1a18f32a2c5d9eb4ae17c2acb27bb23d6334353ed6e84bbe209",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-06-28"
+}

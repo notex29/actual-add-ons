@@ -1,0 +1,13 @@
+{
+  "id": "commandHelper",
+  "name": "Command Helper",
+  "version": "2026.2.1",
+  "author": "Javi Dominguez",
+  "description": "Provides a alternative method for executing scripts for people who have difficulty pressing complicated key combinations.",
+  "homepage": "https://github.com/javidominguez/commandHelper",
+  "download_url": "https://github.com/javidominguez/commandHelper/releases/download/2026.2.1/commandHelper-2026.2.1.nvda-addon",
+  "sha256": "a06feec15f217cf43734bfb490be97429f22608458e7337946ce4d4fa479b130",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-09-14"
+}

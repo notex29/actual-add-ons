@@ -1,0 +1,13 @@
+{
+  "id": "wordLangSwitch",
+  "name": "Word Language Switching",
+  "version": "1.5.1",
+  "author": "Barbara Henn - MBZ Ilvesheim",
+  "description": "Automatic voice switching for marked language changes in Microsoft Word and Outlook. The add-on obtains the language marked in the document via the Word object model and feeds it into NVDA's automatic language switching, so multilingual documents are read with the matching voice (e.g. neural/natural voices via OneCore or SAPI 5) - just like on the web. Requires \"Automatic language switching\" to be enabled in NVDA's speech settings. Includes optional dialect stripping and language code mappings for synthesizers that only match specific language codes.",
+  "homepage": "https://github.com/b-g-h/wordLangSwitch",
+  "download_url": "https://github.com/b-g-h/wordLangSwitch/releases/download/1.5.1/wordLangSwitch-1.5.1.nvda-addon",
+  "sha256": "4b64466df7fbc6857bd692f448d85d91cd53f5bd8b38fb6ce708f58f7d030362",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-10"
+}

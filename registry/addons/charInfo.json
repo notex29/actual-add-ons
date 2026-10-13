@@ -1,0 +1,13 @@
+{
+  "id": "charInfo",
+  "name": "Character information",
+  "version": "3.8.0",
+  "author": "Cyrille Bougot",
+  "description": "This add-on allows to present in a message various information about a character. It also allows to customize the information reported on a character when using review cursor character navigation commands or multiple presses of the review character command.",
+  "homepage": "https://addons.nvda-project.org/addons/charInfo.en.html",
+  "download_url": "https://github.com/CyrilleB79/charInfo/releases/download/V3.8/charInfo-3.8.nvda-addon",
+  "sha256": "6296a96aad40b71b50afb62fee0af6c75f21cd7c15eb48608eec844ca788f708",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-04-29"
+}

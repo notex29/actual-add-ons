@@ -1,0 +1,13 @@
+{
+  "id": "Access8Math",
+  "name": "Access8Math",
+  "version": "5.0.0",
+  "author": "Woody Tseng",
+  "description": "Allows access math content written by MathML ; Allows write math content by LaTeX",
+  "homepage": "https://github.com/tsengwoody/Access8Math",
+  "download_url": "https://github.com/tsengwoody/Access8Math/releases/download/5.0/Access8Math-5.0.nvda-addon",
+  "sha256": "863bb21d18cc11eeab16a130d0418441b254892ca7fb72139c852241d7c85567",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-01"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "Autoclip",
+  "name": "Autoclip, automatically speak clipboard content when it changes",
+  "version": "1.3.4",
+  "author": "Mazen",
+  "description": "Automatically read the contents of the clipboard when a change is detected. Press NVDA + Shift + Control + K to toggle.",
+  "homepage": "https://github.com/mzanm/NVDAAutoclip",
+  "download_url": "https://github.com/mzanm/NVDAAutoclip/releases/download/v1.3.4/Autoclip.nvda-addon",
+  "sha256": "dded8d7be839dbf6e2f42b1389146bfb04abbb93ae9475de191f4b2f4339cbaa",
+  "min_nvda_version": "2021.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-03"
+}

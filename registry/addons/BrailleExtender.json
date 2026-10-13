@@ -1,0 +1,13 @@
+{
+  "id": "BrailleExtender",
+  "name": "Braille Extender",
+  "version": "26.6.16",
+  "author": "AAClause",
+  "description": "Braille Extender is an NVDA add-on that extends braille output, braille input, scrolling, and display-specific gestures. It requires NVDA 2024.1 or later. For full documentation, open the User guide from the NVDA menu under Braille Extender. Main features include: * Reload two favorite braille displays with shortcuts * Terminals: braille can follow the review cursor while you edit (PuTTY, PowerShell, cmd, bash, and similar) * Auto scroll with timing and blank-line options * Multiple input and output braille tables, with automatic table selection on NVDA 2025.1 and later * Dots 7 and 8, tags, and spacing or line padding for structure and attributes * Optional second Liblouis pass after the main output table * Display tab characters as spaces; swap forward and back scroll buttons * Speak the current line while scrolling (coordinate with NVDA braille speech settings) * Convert text to Unicode braille and back, and between Unicode braille and dot-number descriptions * Lock the braille keyboard; lock modifier keys from the braille display * Quick launches to applications or web addresses; table dictionaries * One-handed braille input; rules for undefined characters including emoji; advanced input mode and abbreviations * Speech History Mode; configurable rotor; object and document presentation options for braille; role labels; routing in edit fields; margins; updates; and other settings Where a display profile exists, the add-on can add extended gesture maps (function keys, multimedia keys, rotor actions, emulated modifiers, and more). Assign commands in NVDA Input gestures for Braille Extender, or open Gestures for this display from the Braille Extender submenu.",
+  "homepage": "https://andreabc.net/projects/NVDA_addons/BrailleExtender",
+  "download_url": "https://github.com/AAClause/BrailleExtender/releases/download/26.06.16/BrailleExtender-26.06.16.nvda-addon",
+  "sha256": "6874f6b71702ecf635bad6e2e6151d1404bcb4d50e0ff075ef8b441e5872324c",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-06-16"
+}

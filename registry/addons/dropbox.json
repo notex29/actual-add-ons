@@ -1,0 +1,13 @@
+{
+  "id": "dropbox",
+  "name": "Dropbox",
+  "version": "2026.5.10",
+  "author": "Rui Fontes",
+  "description": "Announces Dropbox status or open the Dropbox systray menu. Shortcut: NVDA+Alt+D",
+  "homepage": "https://github.com/ruifontes/dropbox",
+  "download_url": "https://github.com/ruifontes/dropbox/releases/download/2026.05.10/dropbox-2026.05.10.nvda-addon",
+  "sha256": "6d18a7189e043d3303996391b6b96a5cd63003823d9ec43e52fa0827e7817258",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-10"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "contrast-checker-nvda",
+  "name": "Color Contrast Checker for NVDA",
+  "version": "2026.9.30",
+  "author": "Carter Temm <cartertemm@gmail.com>",
+  "description": "Add-on that presents the color contrast of the system caret, navigator object, and all elements on the page. Primarily useful for helping blind digital accessibility testers determine whether visible text and controls meet thresholds set out by the Web Content Accessibility Guidelines (WCAG).",
+  "homepage": "https://github.com/cartertemm/contrast-checker-nvda",
+  "download_url": "https://github.com/cartertemm/contrast-checker-nvda/releases/download/v2026.09.30/contrast-checker-nvda-2026.09.30.nvda-addon",
+  "sha256": "b67af4a2cab96bc643f6cccc4b84a621f63ccb8c9ee2a7d0fe2e6fec29e9dc01",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-09-30"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "evtTracker",
+  "name": "Event Tracker",
+  "version": "26.4.2",
+  "author": "josephsl",
+  "description": "Tracks events and displays information about them (for developers and power users)",
+  "homepage": "https://github.com/opensourcesys/evtTracker",
+  "download_url": "https://github.com/opensourcesys/evtTracker/releases/download/26.4/evtTracker-26.4.2.nvda-addon",
+  "sha256": "a421f294af5cdd3e62d708bdc9003130283dcf05cf0c10fd07f1f1fb65c3a423",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-10-02"
+}

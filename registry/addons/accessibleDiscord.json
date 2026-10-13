@@ -1,0 +1,13 @@
+{
+  "id": "accessibleDiscord",
+  "name": "Accessible Discord",
+  "version": "1.0.8",
+  "author": "salmanf16",
+  "description": "Announces voice channel events (join, leave, mute, deafen) and chat messages in Discord using a BetterDiscord companion plugin.",
+  "homepage": "https://github.com/salmanf16/accessible-discord",
+  "download_url": "https://github.com/salmanf16/accessible-discord/releases/download/v1.0.8/accessible_discord.nvda-addon",
+  "sha256": "dd4c46d200101dbbc6c6b11625560f659ea59ef723961fa63161a61b3b6944a3",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-07-25"
+}

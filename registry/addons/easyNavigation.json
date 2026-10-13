@@ -1,0 +1,13 @@
+{
+  "id": "easyNavigation",
+  "name": "easyNavigation",
+  "version": "2026.2.0",
+  "author": "Javi Dominguez",
+  "description": "Substitute single key commands for arrow keys to scroll through headings, links, etc. so that you can do everything with one hand.",
+  "homepage": "https://github.com/javidominguez/easyNavigation",
+  "download_url": "https://github.com/javidominguez/easyNavigation/releases/download/2026.2.0/easyNavigation-2026.2.0.nvda-addon",
+  "sha256": "2986080a9faabbb89300490f249c92bcbc0033f1e7eb4c472f0fb43cd49d393f",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-22"
+}

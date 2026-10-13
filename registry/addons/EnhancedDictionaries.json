@@ -1,0 +1,13 @@
+{
+  "id": "EnhancedDictionaries",
+  "name": "Enhanced dictionaries processing for NVDA",
+  "version": "1.7.1",
+  "author": "Marlon Brandão de Sousa",
+  "description": "This addon introduces better dictionaries handling for NVDA. It is now possible to use profile specific dictionaries, which eenables better productivity by allowing you to use different dictionaries for different applications and scenarius.",
+  "homepage": "https://github.com/marlon-sousa/EnhancedDictionaries",
+  "download_url": "https://github.com/marlon-sousa/EnhancedDictionaries/releases/download/1.7.1/EnhancedDictionaries-1.7.1.nvda-addon",
+  "sha256": "baffc39c0b8476310049d3800c28b143f9a6f6dda38c9310ea59c99981b61417",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-07-20"
+}

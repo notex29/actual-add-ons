@@ -1,0 +1,13 @@
+{
+  "id": "soundAlign",
+  "name": "soundAlign",
+  "version": "2026.8.6",
+  "author": "Chai Chaimee",
+  "description": "This add-on provides flexible customization of NVDA sound direction and patterns, including progress indicators Hot Key: NVDA+Windows+S Single Tap : Open soundAlign setting Double Tap : Toggle On and Off SoundAlign",
+  "homepage": "https://github.com/chaichaimee/soundAlign",
+  "download_url": "https://github.com/chaichaimee/soundAlign/releases/download/2026.8.6/soundAlign-v2026.8.6.nvda-addon",
+  "sha256": "5fa40c18244b0f226bf43a9df676839c4812c6eb726d274aa4233990e1d2a5d8",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-08-07"
+}

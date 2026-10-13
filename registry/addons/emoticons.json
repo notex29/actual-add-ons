@@ -1,0 +1,13 @@
+{
+  "id": "emoticons",
+  "name": "Emoticons",
+  "version": "38.2.0",
+  "author": "nvdaes",
+  "description": "Enables the announcement of emoticon names instead of the character Representation.",
+  "homepage": "https://github.com/nvdaes/emoticons",
+  "download_url": "https://github.com/nvdaes/emoticons/releases/download/38.2.0/emoticons-38.2.0.nvda-addon",
+  "sha256": "ad6a572d285e81cfba16e3d649364bafcaab608e37491a323bb26ad0a0c128d7",
+  "min_nvda_version": "2026.3",
+  "last_tested_nvda_version": "2026.3.0",
+  "last_updated": "2026-09-12"
+}

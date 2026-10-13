@@ -1,0 +1,13 @@
+{
+  "id": "NVDAKittenTTS",
+  "name": "NVDAKitten TTS neural speech synthesizer",
+  "version": "2027.1.0",
+  "author": "Anuj sharma",
+  "description": "Offline neural speech synthesis for NVDA using Kitten TTS. Ultra-lightweight ONNX model (about 25 MB) bundled with the add-on, all dependencies included (onnxruntime-directml for CPU and GPU). 8 built-in voices (4 female, 4 male). Additional higher-quality models can be downloaded from the Kitten TTS settings panel, which also lets you choose the compute device (CPU or GPU) used for speech. AI Agent use in developmet of this addon",
+  "homepage": "https://github.com/anujj87/NVDAKittenTTS",
+  "download_url": "https://github.com/anujj87/NVDAKittenTTS/releases/download/v2027-1-0/NVDAKittenTTS-2027.1.0.nvda-addon",
+  "sha256": "aa84192f065d939517cec42fa94196aa2426a725e2fcc3778f6b85916f9f9d59",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2027.1.0",
+  "last_updated": "2026-09-12"
+}

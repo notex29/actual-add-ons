@@ -1,0 +1,13 @@
+{
+  "id": "atlastiAccessibility",
+  "name": "Atlas.ti Accessibility Enhancements",
+  "version": "1.3.0",
+  "author": "Christos Bouronikos",
+  "description": "Improves Atlas.ti accessibility for blind and visually impaired users. Recognises ribbon tabs, managers, panels, buttons, columns and query operators, announces them in English or Greek regardless of Atlas.ti's own interface language, adds shortcuts to every major panel, provides detailed reading commands for codes, quotations, documents, rows and the ribbon, and describes charts and diagrams (Network Editor, Word Cloud, Sankey, Treemap) or points to their accessible table/list equivalent.",
+  "homepage": "https://github.com/ChristosBouronikos/NVDApluginAtlasTI",
+  "download_url": "https://github.com/ChristosBouronikos/NVDApluginAtlasTI/releases/download/v1.3.0/atlastiAccessibility-1.3.0.nvda-addon",
+  "sha256": "1b42421f6af73e457838ccd0d16abedd9886fd3cd0ee7d66ee5b1b00cf58c396",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-08-04"
+}

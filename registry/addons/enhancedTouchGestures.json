@@ -1,0 +1,13 @@
+{
+  "id": "enhancedTouchGestures",
+  "name": "Enhanced Touch Gestures",
+  "version": "26.10.0",
+  "author": "josephsl",
+  "description": "This add-on provides additional touchscreen gestures for NVDA, including focus reporting and synth settings ring gestures.",
+  "homepage": "https://github.com/kefaslungu/enhancedTouchGestures",
+  "download_url": "https://github.com/kefaslungu/enhancedTouchGestures/releases/download/26.10/enhancedTouchGestures-26.10.nvda-addon",
+  "sha256": "faaa4d050711ce0e567b85f44b942366ba35f6f3a395d395a08e55602bb8e368",
+  "min_nvda_version": "2026.2",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-19"
+}

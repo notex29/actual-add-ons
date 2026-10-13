@@ -1,0 +1,13 @@
+{
+  "id": "consoleToolkit",
+  "name": "Console Toolkit",
+  "version": "1.4.8",
+  "author": "Tony Malykh",
+  "description": "Accessibility improvements for Windows console.",
+  "homepage": "https://github.com/mltony/nvda-console-toolkit",
+  "download_url": "https://github.com/mltony/nvda-console-toolkit/releases/download/v1.4.8/consoleToolkit-1.4.8.nvda-addon",
+  "sha256": "4d272d915f1f230fbedc23695cbdfa9a05012bd36e6e4d98ead8126530d9b75c",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-09"
+}

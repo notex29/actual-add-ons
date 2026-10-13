@@ -1,0 +1,13 @@
+{
+  "id": "customNotifications",
+  "name": "Custom Notifications",
+  "version": "15.1.0",
+  "author": "nvdaes",
+  "description": "Choose how NVDA should read toast notifications. You can read just the application which sent a toast, and choose if notifications are spoken, displayed in braille or both. This may improve your experience with toast notifications and help you to keep your privacy.",
+  "homepage": "https://github.com/nvdaes/customNotifications",
+  "download_url": "https://github.com/nvdaes/customNotifications/releases/download/15.1.0/customNotifications-15.1.0.nvda-addon",
+  "sha256": "bc4382086bd01851efac23a472ad66f7d920ce0a7d7e1f0efee6f1cf510f5b65",
+  "min_nvda_version": "2026.3",
+  "last_tested_nvda_version": "2026.3.0",
+  "last_updated": "2026-09-27"
+}

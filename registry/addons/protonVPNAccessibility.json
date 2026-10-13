@@ -1,0 +1,13 @@
+{
+  "id": "protonVPNAccessibility",
+  "name": "ProtonVPN Accessibility",
+  "version": "1.1.0",
+  "author": "Mama Sene",
+  "description": "Improves accessibility of the ProtonVPN Windows application for NVDA users. Main features: - Proper labeling of buttons and controls - Dynamic announcements for VPN status information - Announcements for IP address, country, provider and traffic - Keyboard shortcuts for quick actions - French and English documentation This is a community add-on and is not affiliated with Proton AG.",
+  "homepage": "https://github.com/mamasene/add-on_protonvpn-o",
+  "download_url": "https://github.com/mamasene/add-on_protonvpn-o/releases/download/V1.1.0/protonVPNAccessibility-1.1.0.nvda-addon",
+  "sha256": "d3e7fffcbe790716e62fa71eea2fda3082cefb6b4d21c13877422fd8d83f9571",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-17"
+}

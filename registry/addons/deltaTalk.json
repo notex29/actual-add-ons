@@ -1,0 +1,13 @@
+{
+  "id": "deltaTalk",
+  "name": "MicroPower DeltaTalk TTS",
+  "version": "2026.2.11",
+  "author": "Patrick Barboza <patrickbarboza774@gmail.com>, Wendrill Aksenow Brandão <wendrillaksenow@gmail.com>",
+  "description": "DeltaTalk is the first high-quality speech synthesizer available for the Portuguese language. This add-on implements NVDA compatibility with this synthesizer.",
+  "homepage": "https://github.com/wendrillaksenow/deltaTalkTTS",
+  "download_url": "https://github.com/wendrillaksenow/deltaTalkTTS/releases/download/2026.02.11/deltaTalk-2026.02.11.nvda-addon",
+  "sha256": "c301db6ab097d48c3aa77f897c119041309627bd224c3c816d34622525603944",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-07-30"
+}

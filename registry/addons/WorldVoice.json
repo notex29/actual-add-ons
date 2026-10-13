@@ -1,0 +1,13 @@
+{
+  "id": "WorldVoice",
+  "name": "WorldVoice",
+  "version": "6.2.0",
+  "author": "Woody Tseng",
+  "description": "Multilingual synthesizer add-on: auto-switches voices across eSpeak, OneCore, SAPI5 & RHVoice based on text language.",
+  "homepage": "https://github.com/tsengwoody/WorldVoice",
+  "download_url": "https://github.com/tsengwoody/WorldVoice/releases/download/6.2/WorldVoice-6.2.nvda-addon",
+  "sha256": "cfa0760259127e07bf07470e19293d1ac7b64329278e9630de256830fca93497",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-07-31"
+}

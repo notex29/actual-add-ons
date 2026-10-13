@@ -1,0 +1,13 @@
+{
+  "id": "wintenApps",
+  "name": "Windows App Essentials",
+  "version": "26.10.1",
+  "author": "josephsl",
+  "description": "Improving support for various apps and controls on Windows 11",
+  "homepage": "https://github.com/josephsl/wintenApps",
+  "download_url": "https://github.com/josephsl/wintenApps/releases/download/26.10/wintenApps-26.10.1.nvda-addon",
+  "sha256": "ebab7d43c7df65779edcec5c0e2aa1e2e8d4bf7b759db16e573ef50931bf6205",
+  "min_nvda_version": "2026.2",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-10-03"
+}

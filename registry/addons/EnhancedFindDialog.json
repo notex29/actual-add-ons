@@ -1,0 +1,13 @@
+{
+  "id": "EnhancedFindDialog",
+  "name": "Enhanced find dialog for NVDA",
+  "version": "1.9.0",
+  "author": "Marlon Sousa, Thiago Seus",
+  "description": "This addon introduces improvements to the NVDA find dialog. It is now possible to have your previous searches history available on a list during the NVDA session, which will enable you to quickly select and search for previous searched terms.",
+  "homepage": "https://github.com/marlon-sousa/EnhancedFindDialog",
+  "download_url": "https://github.com/marlon-sousa/EnhancedFindDialog/releases/download/1.9.0/EnhancedFindDialog-1.9.0.nvda-addon",
+  "sha256": "063cd96feacb7db2cb391bcade494421e11b23afc59e0e705b009552f8e0bcda",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-07-14"
+}

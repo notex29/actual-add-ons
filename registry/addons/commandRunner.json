@@ -1,0 +1,13 @@
+{
+  "id": "commandRunner",
+  "name": "Command runner for NVDA input gesture dialog",
+  "version": "0.3.0",
+  "author": "Çağrı Doğan <cagrid@hotmail.com>",
+  "description": "Adds \"Run\" buttons to NVDA's Input Gestures dialog, so you can run the command currently selected in the tree right away, without closing the dialog or having to remember its assigned key combination. Four buttons are provided (Run 1x (alt+1), 2x (alt+2), 3x (alt+3) and 4x (alt+4)), each running the command that many times in a row. This makes it easy to run commands whose behaviour changes depending on how many times in a row they are pressed, such as reporting the time on the first press and the date on the second. Works both with NVDA's own built-in commands and with commands added by other add-ons. While a command runs, the dialog is briefly hidden, with speech muted around the hide/show so NVDA's own focus announcements don't interrupt or get mixed up with whatever the command itself reports.",
+  "homepage": "https://github.com/Surveyor123/commandRunner",
+  "download_url": "https://github.com/Surveyor123/commandRunner/releases/download/v0.3.0/commandRunner-0.3.0.nvda-addon",
+  "sha256": "af75c9193599b6b147ed5a38576a0c99a9e73f5290e48dbaf6cddef518eab1f2",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-03"
+}

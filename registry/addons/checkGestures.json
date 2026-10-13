@@ -1,0 +1,13 @@
+{
+  "id": "checkGestures",
+  "name": "Check Input Gestures",
+  "version": "1.1.0",
+  "author": "Oleksandr Gryshchenko",
+  "description": "Find and fix input gestures conflicts in NVDA and add-ons.",
+  "homepage": "https://github.com/grisov/checkGestures",
+  "download_url": "https://github.com/grisov/checkGestures/releases/download/v1.1.0/checkGestures-1.1.0.nvda-addon",
+  "sha256": "9352d16dd70e5a3f9d2facb3103dd14dea797f3eb0b961ec5fcbef583880a888",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-07-04"
+}

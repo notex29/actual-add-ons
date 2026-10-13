@@ -1,0 +1,13 @@
+{
+  "id": "customBrowseMode",
+  "name": "Custom Browse Mode",
+  "version": "7.0.0",
+  "author": "nvdaes",
+  "description": "Activates or deactivates profiles deppending on browse mode state. The browseMode profile can be edited when browse mode is not active, from the NVDA's menu, Configuration profiles dialog.",
+  "homepage": "https://github.com/nvdaes/customBrowseMode",
+  "download_url": "https://github.com/nvdaes/customBrowseMode/releases/download/7.0.0/customBrowseMode-7.0.0.nvda-addon",
+  "sha256": "6ff302923e6afb38d71981bc5aaf888e68d2e7282e9f07bc7da44e45dba89d6c",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-08-26"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "favoriteFolders",
+  "name": "Favorite folders and files - Register favorite folders and files",
+  "version": "2026.5.22",
+  "author": "Rui Fontes",
+  "description": "Register favorite folders and files to provide quick access to them. Shortcuts: WINDOWS+BACKSPACE: Open favorite folders dialog.. SHIFT+WINDOWS+BACKSPACE: Open favorite files dialog.",
+  "homepage": "https://github.com/ruifontes/favoriteFolders",
+  "download_url": "https://github.com/ruifontes/favoriteFolders/releases/download/2026.05.22/favoriteFolders-2026.05.22.nvda-addon",
+  "sha256": "3dcf6ad024ac93882f9bbaea0d1ba24ca175f689d5b1a80d7dd7b9cc11938b29",
+  "min_nvda_version": "2022.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-25"
+}

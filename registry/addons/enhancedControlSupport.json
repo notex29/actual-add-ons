@@ -1,0 +1,13 @@
+{
+  "id": "enhancedControlSupport",
+  "name": "Enhanced Control Support",
+  "version": "1.2.2",
+  "author": "Emil-18",
+  "description": "Adds support for more controls in NVDA.",
+  "homepage": "https://github.com/emil-18/enhanced-control-support",
+  "download_url": "https://github.com/Emil-18/enhanced-control-support/releases/download/v1.2.2/enhancedControlSupport-1.2.2.nvda-addon",
+  "sha256": "f19499e1bb189ddee6b85b67eb7722ad69f433d60d0d4d8ca3cc24825d5fb318",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-25"
+}

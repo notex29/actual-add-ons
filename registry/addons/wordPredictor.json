@@ -1,0 +1,13 @@
+{
+  "id": "wordPredictor",
+  "name": "Word Predictor",
+  "version": "1.7.1",
+  "author": "Lanie",
+  "description": "Watches what you type and predicts the next word using n-gram analysis with Kneser-Ney smoothing. Predictions are announced through NVDA's speech engine and can be accepted with NVDA+Control+number keys (1 through 0). Learns from your writing over time. Includes partial-word prediction and terminal auto-detection and a custom app exclusion list and a settings panel.",
+  "homepage": "https://github.com/RareBird15/wordPredictor",
+  "download_url": "https://github.com/RareBird15/wordpredictor/releases/download/v1.7.1/wordPredictor-1.7.1.nvda-addon",
+  "sha256": "a92b2454e3abb665bd3631f2dc4c8c3ddc5d861cdde94438c75075de325dbe6b",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-15"
+}

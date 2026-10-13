@@ -1,0 +1,13 @@
+{
+  "id": "mouseEnhancement",
+  "name": "Mouse Enhancement",
+  "version": "0.9.3",
+  "author": "hwf1324",
+  "description": "This add-on provides enhancement to mouse functionality in NVDA. For example: Fixed mouse tracking in Electron app (Only 2024.4 or later). Electron apps, such as VS Code. Experimental fix for mouse tracking in WinUI apps. WinUI applications: e.g. Windows Terminal, PowerToys v0.86.0 and higher, some applications that come with Windows, etc. Automatically update the mouse object.",
+  "homepage": "https://github.com/hwf1324/mouseEnhancement",
+  "download_url": "https://github.com/hwf1324/mouseEnhancement/releases/download/v0.9.3/mouseEnhancement-0.9.3.nvda-addon",
+  "sha256": "b1a44896f78e931206bad37988059740899533d6b60b5799a141632efd4a605c",
+  "min_nvda_version": "2022.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-01"
+}

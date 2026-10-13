@@ -1,0 +1,13 @@
+{
+  "id": "addonsTools",
+  "name": "Tools for managing add-ons",
+  "version": "2026.5.2",
+  "author": "Rui Fontes",
+  "description": "Set of tools to manage add-ons not available on NVDA add-ons store: * Add-on packager: To create a add-on backup file or to send a modified add-on to someone test or use; * Multiple installer: Allows to select add-ons from a folder and install all at once; * Make/restore Backups: Allow to backup and restore some NVDA preferences, such as configurations, profiles and dictionaries; * Add-ons documentation: allow to open the documentation file.",
+  "homepage": "https://github.com/ruifontes/addonsTools",
+  "download_url": "https://github.com/ruifontes/addonsTools/releases/download/2026.05.02/addonsTools-2026.05.02.nvda-addon",
+  "sha256": "2e93c271d422f7383e0feedcd77d15e81c4a7627307a15d34f4addf26888cd88",
+  "min_nvda_version": "2023.2",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-02"
+}

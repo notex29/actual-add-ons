@@ -1,0 +1,13 @@
+{
+  "id": "filezilla",
+  "name": "FileZilla",
+  "version": "2026.5.10",
+  "author": "Nael Sayegh",
+  "description": "This module improves the FileZilla software by adding shortcuts and labels to unnamed buttons.",
+  "homepage": "https://github.com/Nael-Sayegh/filezilla",
+  "download_url": "https://github.com/Nael-Sayegh/filezilla/releases/download/2026.05.10/filezilla-2026.05.10.nvda-addon",
+  "sha256": "dfc9facf3bfb75c95e3ddb7fa845a1b1b7646b713858520c5328016006bb7eb4",
+  "min_nvda_version": "2021.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-10"
+}

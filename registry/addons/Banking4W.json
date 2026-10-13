@@ -1,0 +1,13 @@
+{
+  "id": "Banking4W",
+  "name": "Banking4W - Topbanking",
+  "version": "2026.5.2",
+  "author": "Rainer Brell",
+  "description": "Improves navigation in the portfolio and turnover table.",
+  "homepage": "https://github.com/RainerBrell/Banking4W",
+  "download_url": "https://github.com/RainerBrell/Banking4W/releases/download/2026.05.02/banking4w-2026.05.02.nvda-addon",
+  "sha256": "1eb703ec5cb0cacb0936b38c2a70a86ecb17f9165437541b9e5808c93d3437af",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-02"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ShortcutLaunch",
+  "name": "ShortcutLaunch",
+  "version": "1.0.0",
+  "author": "Vatsal Gautam",
+  "description": "allows you to quickly launch any program, folder, URL or quickly execute a command from command prompt",
+  "homepage": "https://github.com/thundergod60/ShortcutLaunch",
+  "download_url": "https://github.com/thundergod60/ShortcutLaunch/releases/download/vV1.0/ShortcutLaunch.nvda-addon",
+  "sha256": "5d0d38b392f9cd57a7be880fb6f635121e991d2258dff30cf76337375c207bc8",
+  "min_nvda_version": "0.0",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-06-12"
+}

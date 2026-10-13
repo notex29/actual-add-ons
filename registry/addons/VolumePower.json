@@ -1,0 +1,13 @@
+{
+  "id": "VolumePower",
+  "name": "VolumePower",
+  "version": "2026.9.1",
+  "author": "Chai Chaimee",
+  "description": "provides quick control over your computer's NVDA volume and power functions Hot Keys: Alt+Windows+S Single Tap : Shutdown computer Double Tap : Restart computer NVDA+Shift+PageUp Increase NVDA volume NVDA+Shift+PageDown Decrease NVDA volume",
+  "homepage": "https://github.com/chaichaimee/VolumePower",
+  "download_url": "https://github.com/chaichaimee/VolumePower/releases/download/2026.9.1/VolumePower-v2026.9.1.nvda-addon",
+  "sha256": "20df9c4a0ad071b0f3ac7f90bad239182118c9c2eee099cf1fc79b1345b3491f",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-02"
+}

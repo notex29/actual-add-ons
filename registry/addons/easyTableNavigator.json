@@ -1,0 +1,13 @@
+{
+  "id": "easyTableNavigator",
+  "name": "Easy Table Navigator",
+  "version": "2.7.1",
+  "author": "Corentin Bacqué-Cazenave",
+  "description": "Allows using just arrow keys to navigate between table cells via a dedicated layer.",
+  "homepage": "https://github.com/CoBC/easyTableNavigator-1",
+  "download_url": "https://github.com/CoBC/easyTableNavigator-1/releases/download/2.7.1/easyTableNavigator-2.7.1.nvda-addon",
+  "sha256": "119328b42a0b20153d52674affb33bef389ae4722eed6652f32fa5a811793a59",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-26"
+}

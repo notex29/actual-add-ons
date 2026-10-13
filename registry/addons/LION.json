@@ -1,0 +1,13 @@
+{
+  "id": "LION",
+  "name": "LION",
+  "version": "3.3.0",
+  "author": "anmi2004",
+  "description": "does live OCR for the whole screen, refreshing at a specified interval. Toggle with NVDA+alt+n.",
+  "homepage": "https://github.com/anmi2004/LION",
+  "download_url": "https://github.com/anmi2004/LION/releases/download/v3.3.0/LION-3.3.0.nvda-addon",
+  "sha256": "9c70396fb634795f2dcaa8f4970d0be091a60cd721c41bd4c78b004053d943b6",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-10"
+}

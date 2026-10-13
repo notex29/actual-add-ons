@@ -1,0 +1,13 @@
+{
+  "id": "brailleCellIgnorer",
+  "name": "Braille Cell Ignorer",
+  "version": "0.2.1",
+  "author": "cary-rowen <manchen_0528@outlook.com>",
+  "description": "An NVDA add-on that allows you to ignore damaged or malfunctioning braille display cells.",
+  "homepage": "https://github.com/cary-rowen/brailleCellIgnorer",
+  "download_url": "https://github.com/cary-rowen/brailleCellIgnorer/releases/download/0.2.1/brailleCellIgnorer-0.2.1.nvda-addon",
+  "sha256": "f4586ff500f3094837843c9a6c007223370d91289c64fd16e8037484cf897c4b",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-04-30"
+}

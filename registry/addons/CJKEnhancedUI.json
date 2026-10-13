@@ -1,0 +1,13 @@
+{
+  "id": "CJKEnhancedUI",
+  "name": "CJK Enhanced User Interface",
+  "version": "1.11.0",
+  "author": "Michael M Chen; Victor Cai; Woody Tseng",
+  "description": "Modifications and enhancements to speech and Braille output intended for CJK locales.",
+  "homepage": "https://github.com/tsengwoody/CJKEnhancedUI",
+  "download_url": "https://github.com/tsengwoody/CJKEnhancedUI/releases/download/1.11/CJKEnhancedUI-1.11.nvda-addon",
+  "sha256": "c2c677544b844b662050ecd54ff9abad08621c647e870abee4bb7908dacb91c4",
+  "min_nvda_version": "2023.3",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-01"
+}

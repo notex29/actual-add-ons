@@ -1,0 +1,144 @@
+name: Build add-on registry
+
+# Pushes rebuild dist/index.json. Pull requests get an automated review, and a
+# failing review closes the PR by itself so maintainers never have to refuse
+# junk submissions by hand.
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - "registry/**"
+      - "scripts/build_registry.py"
+      - "scripts/review_pr.py"
+      - ".github/workflows/build-registry.yml"
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+    paths:
+      - "registry/**"
+      - "scripts/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  # Runs on every PR touching the registry. Validates everything, strictly
+  # reviews the changed manifests, and auto-closes the PR on failure.
+  review:
+    name: Automated PR review
+    if: github.event_name == 'pull_request_target'
+    runs-on: ubuntu-latest
+    steps:
+      # SECURITY: pull_request_target runs in the base repo so fork PRs cannot
+      # touch secrets, but PR code is untrusted. We check out the trusted base
+      # for scripts and overlay ONLY the PR's JSON data files. The code that
+      # executes is always ours; the PR contributes data, never code.
+      - name: Check out trusted base
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          path: base
+
+      - name: Check out PR head (data only, never executed)
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.sha }}
+          path: pr-head
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect changed manifests
+        run: |
+          mkdir -p base/registry/addons pr-head/registry/addons
+          : > "$GITHUB_WORKSPACE/changed.txt"
+          for f in pr-head/registry/addons/*.json; do
+            [ -e "$f" ] || continue
+            name="$(basename "$f")"
+            if [ ! -f "base/registry/addons/$name" ] || ! cmp -s "$f" "base/registry/addons/$name"; then
+              echo "registry/addons/$name" >> "$GITHUB_WORKSPACE/changed.txt"
+            fi
+          done
+          echo "changed manifests:"
+          cat "$GITHUB_WORKSPACE/changed.txt"
+
+      - name: Overlay PR manifests onto base
+        run: |
+          cp pr-head/registry/addons/*.json base/registry/addons/ 2>/dev/null || true
+          for f in base/registry/addons/*.json; do
+            [ -e "$f" ] || continue
+            name="$(basename "$f")"
+            if [ ! -f "pr-head/registry/addons/$name" ]; then
+              rm -f "$f"
+            fi
+          done
+
+      - name: Schema validation (all manifests)
+        id: schema
+        working-directory: base
+        run: python scripts/build_registry.py --addons-dir registry/addons --output /tmp/index-check.json
+
+      - name: Strict review (changed manifests)
+        id: strict
+        working-directory: base
+        run: |
+          if [ -s "$GITHUB_WORKSPACE/changed.txt" ]; then
+            tr '\n' '\0' < "$GITHUB_WORKSPACE/changed.txt" | xargs -0 python scripts/review_pr.py --addons-dir registry/addons
+          else
+            echo "No manifest changes to review."
+          fi
+
+      - name: Comment and auto-close failing PR
+        if: ${{ failure() && (steps.schema.outcome == 'failure' || steps.strict.outcome == 'failure') }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          {
+            echo "This pull request was automatically refused by the registry reviewer."
+            echo ""
+            echo "The automated review found problems with the submitted manifest(s). Full details are in the failing check of this workflow run:"
+            echo "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            echo ""
+            echo "Common causes: leftover template text (\"Your Name\", \"my-addon\", example.com links), a description that is too short or not in English, a last-tested NVDA version older than 2026.1, or a download link that does not point at the exact .nvda-addon file."
+            echo ""
+            echo "Push fixes to your branch, then reopen this PR (or open a new one) to trigger a fresh review. If you believe the reviewer is wrong, say so in a comment and a human will take a look."
+          } > /tmp/review-note.txt
+          gh pr comment ${{ github.event.pull_request.number }} --repo ${{ github.repository }} --body-file /tmp/review-note.txt || true
+          gh pr close ${{ github.event.pull_request.number }} --repo ${{ github.repository }} || true
+
+  # Runs on pushes: rebuilds the index and commits it back.
+  build:
+    name: Rebuild index
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate registry and build dist/index.json
+        run: python scripts/build_registry.py
+
+      - name: Verify client fetch against built index
+        run: python scripts/demo_fetch.py > /dev/null
+
+      - name: Commit rebuilt index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/index.json
+          if git diff --staged --quiet; then
+            echo "dist/index.json already up to date"
+          else
+            git commit -m "chore(registry): rebuild dist/index.json [skip ci]"
+            git push
+          fi

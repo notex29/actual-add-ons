@@ -1,0 +1,13 @@
+{
+  "id": "appOn",
+  "name": "appOn",
+  "version": "2026.9.9",
+  "author": "Chai Chaimee",
+  "description": "appOn is a fast, accessible NVDA add-on that lets you instantly launch installed apps and system tools. Features include auto detection, version tracking, categorization, custom sorting, a settings menu, and live refreshing. Hot Key: ALT+Windows+A : open appOn menu Center",
+  "homepage": "https://github.com/chaichaimee/appOn",
+  "download_url": "https://github.com/chaichaimee/appOn/releases/download/2026.9.9/appOn-v2026.9.9.nvda-addon",
+  "sha256": "cbb78e1be5f6d228da924c6016c863c6d1a593b1483fe2c7c3a934cd12e17a4b",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-07"
+}

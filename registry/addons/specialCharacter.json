@@ -1,0 +1,13 @@
+{
+  "id": "specialCharacter",
+  "name": "specialCharacter",
+  "version": "2026.9.9",
+  "author": "Chai Chaimee",
+  "description": "Special Character is an NVDA add-on that lets you instantly insert symbols and special characters anywhere. It features two customizable sets of twelve slots, a dedicated settings panel, and context-aware insertion logic for various apps. It also includes smart tap control, dedicated dash shortcuts, and persistent configuration. Hot Keys: Ctrl+0-9, Ctrl+Minus, and Ctrl+Equals : Insert Slot 1-12 Shift+Windows+. : Insert En Dash Shift+Windows+/ : Insert Em Dash Shift+Backspace Single tap: Toggle character set Double tap: Toggle On or Off",
+  "homepage": "https://github.com/chaichaimee/specialCharacter",
+  "download_url": "https://github.com/chaichaimee/specialCharacter/releases/download/2026.9.9/specialCharacter-v2026.9.9.nvda-addon",
+  "sha256": "dc2905f2974b61bc46fa214a823ce4708be2b6e86aa93309bd663503167f3f1f",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-07"
+}

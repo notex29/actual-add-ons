@@ -1,0 +1,13 @@
+{
+  "id": "browserOptions",
+  "name": "Browser Options",
+  "version": "1.2.2",
+  "author": "Andhi Mardianto",
+  "description": "Open URL and Searching with Option Browsers",
+  "homepage": "https://github.com/andhimardianto/browserOptions",
+  "download_url": "https://github.com/AndhiMardianto/browserOptions/releases/download/v1.2.2/browserOptions-1.2.2.nvda-addon",
+  "sha256": "2c6ad2401089b169c263b7d0fb683bd108ef788ab61c34b69263c79c9fdd9832",
+  "min_nvda_version": "2023.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-04"
+}

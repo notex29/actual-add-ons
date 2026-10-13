@@ -1,0 +1,13 @@
+{
+  "id": "eMule",
+  "name": "eMule",
+  "version": "2025.1.0",
+  "author": "nvdaes",
+  "description": "Improves eMule's accessibility with NVDA. eMule is a P2P program to search and share files. You can get more information about eMule at http://www.emule-project.net",
+  "homepage": "https://github.com/nvdaes/emule",
+  "download_url": "https://github.com/nvdaes/emule/releases/download/2025.1.0/eMule-2025.1.0.nvda-addon",
+  "sha256": "6f069d23629f987935e0f874078e80d2a844980850f413314120b07a8ea9b58b",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-08-15"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "thunderbirdPlusG5",
+  "name": "Thunderbird+ G5.1 (TB >= 140)",
+  "version": "2609.26.0",
+  "author": "Pierre-Louis Renaud",
+  "description": "This add-on significantly increases the efficiency and comfort of using Thunderbird with NVDA.",
+  "homepage": "https://www.rptools.org/NVDA-Thunderbird/get.php?pg=manual-changelog&v=g5&lang=auto",
+  "download_url": "https://github.com/RPTools-org/thunderbirdPlusG5/releases/download/v2609.26.0/thunderbirdPlusG5-2609.26.0.nvda-addon",
+  "sha256": "034f5e836cdaed84903ed3cb7271c086db72c23a1465e921a92c19781895b311",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-09-27"
+}

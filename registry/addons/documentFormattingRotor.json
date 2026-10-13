@@ -1,0 +1,13 @@
+{
+  "id": "documentFormattingRotor",
+  "name": "Document Formatting Rotor",
+  "version": "1.2.0",
+  "author": "Derek Riemer <driemer.riemer@gmail.com>",
+  "description": "Provides a simple rotor that can be used to cycle through document formatting settings. Press nvda/g to envoke.",
+  "homepage": "https://github.com/derekriemer/nvda-documentFormattingRotor",
+  "download_url": "https://github.com/derekriemer/nvda-documentFormattingRotor/releases/download/v1.2/documentFormattingRotor-1.2.nvda-addon",
+  "sha256": "6939358e3ccc5a21e032584fff2a7ebd05a6c848abedbf8239eeb4aff8b3766c",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-17"
+}

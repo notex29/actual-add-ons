@@ -1,0 +1,13 @@
+{
+  "id": "speechHistory",
+  "name": "Speech history review and copying",
+  "version": "2026.1.0",
+  "author": "James Scholes",
+  "description": "This add-on allows you to review the most recent strings spoken by NVDA, by default using Shift+F11 and Shift+F12. Additionally, you can copy any spoken item to the clipboard by pressing F12. Use the settings panel for the add-on to increase or decrease the maximum number of stored history entries, and decide whether whitespace should be trimmed from the start or end of text. Use NVDA's Input Gestures dialog to change the supplied keystrokes.",
+  "homepage": "https://github.com/jscholes/nvda-speech-history",
+  "download_url": "https://github.com/jscholes/nvda-speech-history/releases/download/v2026.1/speechHistory-v2026.1.nvda-addon",
+  "sha256": "60b04e5ca1b1ea390425dc0cc23cfde08383b99662337d5a7db6ab26de5d88a5",
+  "min_nvda_version": "2020.4",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-19"
+}

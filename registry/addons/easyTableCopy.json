@@ -1,0 +1,13 @@
+{
+  "id": "easyTableCopy",
+  "name": "Easy Table Copy",
+  "version": "2026.7.1",
+  "author": "Çağrı Doğan <cagrid@hotmail.com>",
+  "description": "EasyTableCopy lets you copy tables, lists, and grids from the Web, desktop apps, and Windows Explorer into Word, Excel, or Outlook — with formatting intact. Mark specific rows or columns to copy, grab a single cell, flatten a tree view, or copy an entire folder listing, all with a keystroke.",
+  "homepage": "https://github.com/Surveyor123/EasyTableCopy",
+  "download_url": "https://github.com/Surveyor123/EasyTableCopy/releases/download/v2026.7.1/easyTableCopy-2026.7.1.nvda-addon",
+  "sha256": "241d0fd096443de7b0361d139e0cb85789efcecbc880ba0cc50b24376caac12f",
+  "min_nvda_version": "2022.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-03"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "enhancedLanguageDetection",
+  "name": "Enhanced Language Detection",
+  "version": "1.2.5",
+  "author": "Emil-18",
+  "description": "Automaticly detects the language of the text NVDA is about to speak, and uses NVDA's built in auto language switching, if turned on, to sspeak the text in that language",
+  "homepage": "https://github.com/Emil-18/enhanced_language_switching",
+  "download_url": "https://github.com/Emil-18/enhanced_language_switching/releases/download/v1.2.5/enhancedLanguageDetection-1.2.5.nvda-addon",
+  "sha256": "e606287e1611ba18486399181f14593d583a3b6c7da75bdb658a7a818d951586",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-06-11"
+}

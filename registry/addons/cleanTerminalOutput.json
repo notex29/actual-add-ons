@@ -1,0 +1,13 @@
+{
+  "id": "cleanTerminalOutput",
+  "name": "Clean Terminal Output",
+  "version": "1.0.0",
+  "author": "Ripple Software",
+  "description": "Cleans whitespace from text on the clipboard with a single keystroke. Built for text copied out of a terminal with the review cursor, where every line picks up trailing spaces and blank lines fill with spaces: it strips trailing whitespace, turns space-only lines into empty lines, takes lines flush left, and collapses runs of blank lines. Works on any clipboard text, not just terminal output.",
+  "homepage": "https://ripple-software.com",
+  "download_url": "https://github.com/cmwalton/clean-terminal-output/releases/download/v1.0/cleanTerminalOutput-1.0.nvda-addon",
+  "sha256": "794b2927c7c4d35c78b072b709d8e36e8be887c3a4ccaca57b90fd066a80059e",
+  "min_nvda_version": "2021.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-06-12"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "enhancedObjectNavigation",
+  "name": "Enhanced Object Navigation",
+  "version": "0.4.0",
+  "author": "Emil-18",
+  "description": "Allows you to use single letter navigation everyware, and to search for objects by name",
+  "homepage": "https://github.com/Emil-18/enhanced-object-navigation",
+  "download_url": "https://github.com/Emil-18/enhanced-object-navigation/releases/download/v0.4/enhancedObjectNavigation-0.4.nvda-addon",
+  "sha256": "b88312963d39646929354575e10a690f8e2b3f9b315a49e7d6be61389c882db6",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-09-06"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "TextMarksTheSpot",
+  "name": "Text Marks the Spot",
+  "version": "1.0.17",
+  "author": "Casey Mathews",
+  "description": "Get to the actual content on a web page without working so hard to find it. Hands off. Let the page load, listen for the short beeps, and you're at the start of the article. NVDA reads the first paragraph. Press Z to skim forward, Shift+Z to jump back to the start, NVDA+Z to turn the add-on off on a specific site. Runs locally, no network calls.",
+  "homepage": "https://github.com/WebFriendlyHelp/TextMarksTheSpot",
+  "download_url": "https://github.com/WebFriendlyHelp/TextMarksTheSpot/releases/download/v1.0.17/TextMarksTheSpot-1.0.17.nvda-addon",
+  "sha256": "fe17a09de0df52c2803f82d75fd668fc0ab313b50ecce94fb25ec0d965a8b0a1",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-25"
+}

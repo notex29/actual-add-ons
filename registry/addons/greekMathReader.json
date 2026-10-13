@@ -1,0 +1,13 @@
+{
+  "id": "greekMathReader",
+  "name": "Greek Math Reader",
+  "version": "2.5.6",
+  "author": "Bouronikos Christos",
+  "description": "Reads MathML, LaTeX, and UnicodeMath aloud in natural Greek, following the dictation conventions used in Greek schools and universities. Uses conservative semantic interpretation, terminology profiles, statistics, vector calculus, quantum notation, SI units, fractions, powers, integrals, derivatives, and matrices. Includes interactive navigation to explore complex expressions part by part, three verbosity levels, configurable pronunciations and matrix reading, unsaved speech previews, and voice download options for OneCore and Vocalizer Expressive.",
+  "homepage": "https://github.com/ChristosBouronikos/NVDA-Greek-Math",
+  "download_url": "https://github.com/ChristosBouronikos/NVDA-Greek-Math/releases/download/v2.5.6/greekMathReader-2.5.6.nvda-addon",
+  "sha256": "c17ce62a5e72424212387455c8c3a55ed95a4934903bbd88ea9cb683f777a524",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-09-11"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "autosleepMode",
+  "name": "Autosleep Mode",
+  "version": "1.0.0",
+  "author": "Lukáš Hosnedl",
+  "description": "Turns NVDA's sleep mode on automatically whenever an application you have listed comes to the foreground.",
+  "homepage": "https://github.com/4sensegaming/autosleep-mode",
+  "download_url": "https://github.com/4sensegaming/autosleep-mode/releases/download/v1.0.0/autosleepMode-1.0.0.nvda-addon",
+  "sha256": "227785b196ac3d66a1220ac2107d472668948102d33a4da9eb035d1148c54458",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-05"
+}

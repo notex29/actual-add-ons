@@ -1,0 +1,13 @@
+{
+  "id": "REGEXPlusPlus",
+  "name": "REGEX++",
+  "version": "2026.8.8",
+  "author": "Chai Chaimee",
+  "description": "Provides an intelligent, on-the-fly regex search, preview, and replace dialog that works in virtually any text editor – even those that have no built-in regular expression support. Hot Keys: ALT+Windows+F : Find and Replace REGEX Tools Dialog",
+  "homepage": "https://github.com/chaichaimee/REGEXPlusPlus",
+  "download_url": "https://github.com/chaichaimee/REGEXPlusPlus/releases/download/2026.8.8/REGEXPlusPlus-v2026.8.8.nvda-addon",
+  "sha256": "3ec4d3a1e81ab4ce45469b20f8ec911450f7cfe852cf5062b84496960ef0a6bb",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-08-14"
+}

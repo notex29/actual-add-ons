@@ -1,0 +1,13 @@
+{
+  "id": "axygenChecklist",
+  "name": "Axygen Checklist",
+  "version": "0.1.0",
+  "author": "Ruslan Iskov",
+  "description": "Walk a test checklist with global commands while the system focus stays in the application under test. Items are marked passed, failed or skipped, commented and read back by speech, without ever leaving the window being tested. Checklists are plain JSON files that record the result of the run.",
+  "homepage": "https://github.com/ruslan-rv-ua/axygen-checklist",
+  "download_url": "https://github.com/ruslan-rv-ua/axygen-checklist/releases/download/v0.1.0/axygenChecklist-0.1.0.nvda-addon",
+  "sha256": "797a1f2277f3d1942f9c67c868024080afa88e6f4cbfd34eff752ca0d8f393ba",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-22"
+}

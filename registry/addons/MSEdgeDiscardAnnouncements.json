@@ -1,0 +1,13 @@
+{
+  "id": "MSEdgeDiscardAnnouncements",
+  "name": "Microsoft Edge discard announcements",
+  "version": "0.11.0",
+  "author": "addonFactory",
+  "description": "Discards UIA announcements in Microsoft Edge such as page loading and refreshing, opening and closing tabs and windows and more.",
+  "homepage": "https://github.com/addonfactory/MSEdgeDiscardAnnouncements",
+  "download_url": "https://github.com/addonFactory/MSEdgeDiscardAnnouncements/releases/download/v0.11.0-stable/MSEdgeDiscardAnnouncements-0.11.0.nvda-addon",
+  "sha256": "3ac1827615bc2440c5158ca36d90eb9a3053daae9ae9bc045e477805e368b7f2",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-07"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "TimerForNVDA",
+  "name": "Simple Timer and stopwatch for NVDA",
+  "version": "1.7.0",
+  "author": "Marlon Brandão de Sousa",
+  "description": "This addon brings a fast, functional ande simple implementation of timer and stopwatch to be used with NVDA. Start a timer or stopwatch, using the time unit and reporting modes you need. Choose between speech, sound or no reporters. Monitor progress through reporters, settings dialog or anywhere using NVDA commands. Control timer and stopwatch from anywhere using NVDA commands.",
+  "homepage": "https://github.com/marlon-sousa/TimerForNVDA",
+  "download_url": "https://github.com/marlon-sousa/TimerForNVDA/releases/download/1.7.0/TimerForNVDA-1.7.0.nvda-addon",
+  "sha256": "924d50af48dd67db63477eaa4db2292f702ebcccfc4209fc4fb89a00283b928d",
+  "min_nvda_version": "2022.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-07-13"
+}

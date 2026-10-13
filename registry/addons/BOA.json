@@ -1,0 +1,13 @@
+{
+  "id": "BOA",
+  "name": "BOA: Better Office Accessibility",
+  "version": "2.0.1",
+  "author": "MisterK",
+  "description": "BOA is a powerful suite of accessibility enhancements for Microsoft Office, outcome of AI assisted development; designed to vastly improve the screen reader experience for NVDA users. The Entire code base has been generated using Anti Gravity 2.0. It directly patches inaccessible UI components and introduces rapid navigation tools for Excel and PowerPoint. Key Features: - Cell Monitor: Save and continuously track dynamic Excel cells. - Sheet Layout Analyzer: Instantly scan worksheets for hidden tabs, protected states, and data blocks. - Bulk Sheet Organizer & Quick Mover: Instantly move or reorder multiple sheets using accessible dialogs. - PowerPoint Color Pickers: Read hidden Hex and RGB codes inside standard color grids. Please refer to the add-on help documentation for a complete list of features and shortcuts.",
+  "homepage": "https://github.com/MisterK-Dev/BOA-Better-Office-Accessibility-with-NVDA",
+  "download_url": "https://github.com/MisterK-Dev/BOA-Better-Office-Accessibility-with-NVDA/releases/download/v2.0.1/BOA-2.0.1.nvda-addon",
+  "sha256": "c4dae7154f076db4c8123f36ace11d2d43e144176edcbcbcfb5562a34ba5453e",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-08-31"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "capitalSelectionIndicator",
+  "name": "Capital Selection Indicator",
+  "version": "0.2.2",
+  "author": "Cary-rowen <manchen_0528@outlook.com>",
+  "description": "A prototype NVDA add-on that addresses GitHub issues #18360, #4874 and #12996. This add-on adds capital letter indicators (beep, pitch change, \"cap\" prefix) when selecting single characters, matching the behavior of character navigation.",
+  "homepage": "https://github.com/cary-rowen/capitalSelectionIndicator",
+  "download_url": "https://github.com/cary-rowen/capitalSelectionIndicator/releases/download/0.2.2/capitalSelectionIndicator-0.2.2.nvda-addon",
+  "sha256": "51e85ff16882287e0b1608c9886c756f2d492a2783bb92714041126f024e8e0b",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-04-30"
+}

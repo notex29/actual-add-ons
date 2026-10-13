@@ -1,0 +1,13 @@
+{
+  "id": "LIMA",
+  "name": "LIMA AI",
+  "version": "0.3.0",
+  "author": "Roscommon Systems",
+  "description": "LIMA AI is the NVDA add-on companion to the LIMA (Low-Vision Intelligent Machine Assistant) desktop app. It describes what is on screen on demand: press a shortcut and NVDA speaks a brief AI description of the active monitor.",
+  "homepage": "https://www.roscommon.systems",
+  "download_url": "https://github.com/roscommonsystems/lima-ai-nvda-addon/releases/download/v0.3.0/LIMA-0.3.0.nvda-addon",
+  "sha256": "2033bdb3db95988e82e03b9da454cea3a89e96eba66199daa4949915eccd1da7",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-09-18"
+}

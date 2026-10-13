@@ -1,0 +1,13 @@
+{
+  "id": "audioScreen",
+  "name": "AudioScreen",
+  "version": "2026.3.2",
+  "author": "josephsl",
+  "description": "Allows you to \"feel\" images with your ears, while moving your finger around a touch screen on Windows 10 and above.",
+  "homepage": "https://github.com/josephsl/audioScreen",
+  "download_url": "https://github.com/josephsl/audioScreen/releases/download/release-2026.3.2/audioScreen-2026.3.2.nvda-addon",
+  "sha256": "3bcedf806363afca67d2a6bb6277ca397dd4bb1ea6618b76f76c94e136c8af69",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-20"
+}

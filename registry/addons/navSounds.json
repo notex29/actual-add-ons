@@ -1,0 +1,13 @@
+{
+  "id": "navSounds",
+  "name": "Navigation Sound Effects",
+  "version": "2.2.0",
+  "author": "Ahmed Samy",
+  "description": "NVDA add-on providing navigation and typing sound effects with customizable sound packs, browse mode support, and mouse hover feedback.",
+  "homepage": "https://github.com/ahmedthebest31/navsounds",
+  "download_url": "https://github.com/ahmedthebest31/navsounds/releases/download/v2.2.0/navSounds_2.2.0.nvda-addon",
+  "sha256": "a3403dff570626307e04ab4f2372f2d56c30a5df023b672a3c6e6d2ef7408f13",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-06-29"
+}

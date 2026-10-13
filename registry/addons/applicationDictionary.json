@@ -1,0 +1,13 @@
+{
+  "id": "applicationDictionary",
+  "name": "Application dictionary",
+  "version": "2026.5.11",
+  "author": "Rui Fontes",
+  "description": "Allows creation of application-specific dictionaries. Use the command \"NVDA+Control+Shift+d\" to access the dictionary for the current application.",
+  "homepage": "https://github.com/ruifontes/applicationDictionary-",
+  "download_url": "https://github.com/ruifontes/applicationDictionary-/releases/download/2026.05.11/applicationDictionary-2026.05.11.nvda-addon",
+  "sha256": "c5c33deb8e12bb4877f9dc8c8d49293373f4051cfd8e17f759bf9ba54c91f65a",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-10"
+}

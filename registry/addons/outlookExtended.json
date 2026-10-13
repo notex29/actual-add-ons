@@ -1,0 +1,13 @@
+{
+  "id": "outlookExtended",
+  "name": "Outlook Extended",
+  "version": "3.4.0",
+  "author": "Cyrille Bougot",
+  "description": "This add-on improves the use of Microsoft Outlook with NVDA. It provides commands to read, move to, or copy various parts of a message such as message headers, attachments, information bar, notification or message body. It also improves navigation within the application and provides more feedback when performing certain actions.",
+  "homepage": "https://github.com/CyrilleB79/outlookExtended",
+  "download_url": "https://github.com/CyrilleB79/outlookExtended/releases/download/V3.4/outlookExtended-3.4.nvda-addon",
+  "sha256": "f61d0ee01d1a77a94897c2f0a8d13a097079a6269fe284ee0267f35b78fa2b99",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-08-24"
+}

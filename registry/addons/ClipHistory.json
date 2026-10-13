@@ -1,0 +1,13 @@
+{
+  "id": "ClipHistory",
+  "name": "ClipboardHistory",
+  "version": "2026.10.0",
+  "author": "Chai Chaimee",
+  "description": "ClipHistory tracks clipboard activity, automatically saving text and HTML entries to persistent storage. Features include an accessible history dialog, pinning, custom item names, editing, reordering, item deletion, and pasting support for NVDA. Hot Keys: Windows+V Single : open ClipHistory Dialog Double : Clear All ClipBoardHistory",
+  "homepage": "https://github.com/chaichaimee/ClipHistory",
+  "download_url": "https://github.com/chaichaimee/ClipHistory/releases/download/2026.10.0/ClipHistory-v2026.10.0.nvda-addon",
+  "sha256": "3cfdc0ba8bb25c7653ea827e19804b61c1ffca3390314aed01fbcf1092706727",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-22"
+}

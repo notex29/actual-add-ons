@@ -1,0 +1,13 @@
+{
+  "id": "BrowsersDictionary",
+  "name": "BrowserDictionary",
+  "version": "2026.10.2",
+  "author": "Chai Chaimee",
+  "description": "Customize NVDA speech per website with Browsers Dictionary. Features live URL tracking, text and regex replacements by page or domain, JSON file import, and regex safety protections. Automatically substitutes spoken text in real time to deliver accurate, seamless web reading. Hot Key: ALT+Windows+B Single Tap : Open Browsers Dictionary settings Double Tap : Add new site Triple Tab : edit Site",
+  "homepage": "https://github.com/chaichaimee/BrowsersDictionary",
+  "download_url": "https://github.com/chaichaimee/BrowsersDictionary/releases/download/2026.10.2/BrowsersDictionary-v2026.10.2.nvda-addon",
+  "sha256": "9c22fd5ec82e81ed7d96c82d98668045494519cd59a3a2250059715b75c35a88",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-10-02"
+}

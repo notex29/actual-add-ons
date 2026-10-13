@@ -1,0 +1,13 @@
+{
+  "id": "favoriteLinks",
+  "name": "Favorite links",
+  "version": "2026.2.2",
+  "author": "Edilberto Fonseca",
+  "description": "This add-on allows you to save, edit and remove links to frequently visited pages. Shortcut Windows+Alt+K.",
+  "homepage": "https://github.com/EdilbertoFonseca/favoriteLinks",
+  "download_url": "https://github.com/EdilbertoFonseca/favoriteLinks/releases/download/v2026.2.2/favoriteLinks-2026.2.2.nvda-addon",
+  "sha256": "04b0dfc3ee5d491d4b2344ac67e786e8e47fb13f13eb5fb1858bf88d038ae4d2",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-31"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "terminalAccess",
+  "name": "Terminal Access for NVDA",
+  "version": "2.3.0",
+  "author": "Pratik Patel",
+  "description": "Provides enhanced terminal accessibility for Windows Terminal and PowerShell, enabling screen reader users to efficiently navigate and interact with command-line interfaces. Inspired by TDSR (Terminal Data Structure Reader) and incorporates functionality from both TDSR and Speakup. Advanced features inspired by community suggestions and discussions.",
+  "homepage": "https://github.com/PratikP1/Terminal-Access-for-NVDA",
+  "download_url": "https://github.com/PratikP1/Terminal-Access-for-NVDA/releases/download/v2.3.0/terminalAccess-2.3.0.nvda-addon",
+  "sha256": "52c7351de86230ff5136e25aa05c757ae3fa734b24e25d1941e737eb6161205c",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-07-20"
+}

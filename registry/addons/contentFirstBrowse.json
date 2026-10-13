@@ -1,0 +1,13 @@
+{
+  "id": "contentFirstBrowse",
+  "name": "Browse mode content first",
+  "version": "1.1.1",
+  "author": "shenguangrong",
+  "description": "In browse mode content is read before role and state information.",
+  "homepage": "https://github.com/shenguangrong/contentFirstBrowse",
+  "download_url": "https://github.com/shenguangrong/contentFirstBrowse/releases/download/v1.1.1/contentFirstBrowse-1.1.1.nvda-addon",
+  "sha256": "6185d0026399e6a462d113bbf9663577f337775e898d350e1f8932db81937f4c",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-03"
+}

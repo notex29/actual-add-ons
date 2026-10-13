@@ -1,0 +1,13 @@
+{
+  "id": "toolbarsExplorer",
+  "name": "ToolbarsExplorer",
+  "version": "2.0.0",
+  "author": "Alberto Buffolino",
+  "description": "Add-on to facilitate toolbars management.",
+  "homepage": "https://github.com/ABuffEr/toolbarsExplorer",
+  "download_url": "https://github.com/ABuffEr/toolbarsExplorer/releases/download/v2.0.0/toolbarsExplorer-2.0.0.nvda-addon",
+  "sha256": "44af521a2c59833c8a5a901384f5eda70a62f933474864dbbe338f81ce2e67dc",
+  "min_nvda_version": "0.0",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-06-01"
+}

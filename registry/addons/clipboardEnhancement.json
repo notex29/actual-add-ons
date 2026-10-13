@@ -1,0 +1,13 @@
+{
+  "id": "clipboardEnhancement",
+  "name": "Clipboard Enhancement",
+  "version": "2.9.7",
+  "author": "Cary-rowen <manchen_0528@outlook.com>",
+  "description": "Clipboard Enhancement is an add-on for the NVDA (NonVisual Desktop Access) screen reader. This add-on is designed to enhance the functionality related to the clipboard and the text last spoken by NVDA. It aims to improve the user experience by providing more control and flexibility over the clipboard content and the text spoken by NVDA.",
+  "homepage": "https://www.nvdacn.com",
+  "download_url": "https://github.com/nvdacn/clipboardEnhancement/releases/download/v2.9.7/clipboardEnhancement-2.9.7.nvda-addon",
+  "sha256": "63be5f7e4800dd60820b39476c621fc48d2d59485dfa5abb19f502d369039dcd",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-09"
+}

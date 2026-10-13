@@ -1,0 +1,13 @@
+{
+  "id": "NeovimAccessLink",
+  "name": "Neovim Access Link",
+  "version": "0.98.0",
+  "author": "Emanuel Helms",
+  "description": "Accessible Neovim integration for NVDA with structured speech, sound, and Braille feedback for editing, navigation, and spelling suggestions. Supports separate local Windows and remote SSH sessions across Windows Terminal windows, tabs, and panes.",
+  "homepage": "https://github.com/helmsaccess/neovim-access-link",
+  "download_url": "https://github.com/helmsaccess/neovim-access-link/releases/download/v0.98.0/NeovimAccessLink-0.98.0.nvda-addon",
+  "sha256": "554cbea853877319f860f0632d255bd915d40bea169e72bee1f80e4bb038458b",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.1",
+  "last_updated": "2026-08-13"
+}

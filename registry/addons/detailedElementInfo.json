@@ -1,0 +1,13 @@
+{
+  "id": "detailedElementInfo",
+  "name": "Detailed Element Info",
+  "version": "1.0.2",
+  "author": "Mustafa Elçiçek",
+  "description": "Shows accessibility, ARIA, and DOM details for the focused HTML element on web pages.",
+  "homepage": "https://github.com/mustafaelcicek/NVDA-DetailedElementInfo",
+  "download_url": "https://github.com/mustafaelcicek/NVDA-DetailedElementInfo/releases/download/v1.0.2/detailedElementInfo-1.0.2.nvda-addon",
+  "sha256": "498dc2b1bf92a4f2a75b215df94a80ae4664b067db1325689d65a82e0eb046e0",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-07-19"
+}

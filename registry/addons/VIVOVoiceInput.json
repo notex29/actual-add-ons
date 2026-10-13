@@ -1,0 +1,13 @@
+{
+  "id": "VIVOVoiceInput",
+  "name": "VIVO Voice Input",
+  "version": "0.2.0",
+  "author": "haitun",
+  "description": "Uses VIVO's speech recognition capability for voice input.",
+  "homepage": "https://www.zxrjy.net",
+  "download_url": "https://github.com/haitun001/VIVOVoiceInput/releases/download/0.2/VIVOVoiceInput-0.2.nvda-addon",
+  "sha256": "c2e309c5c5fbff3084134874a07066ece9aa6623d4e8ebbe8b705e6d4325861c",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-09-11"
+}

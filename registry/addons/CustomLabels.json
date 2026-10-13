@@ -1,0 +1,13 @@
+{
+  "id": "CustomLabels",
+  "name": "Custom Labels",
+  "version": "2026.3.1",
+  "author": "Kefas Lungu",
+  "description": "An addon that allows you to add custom labels for unlabeled controls and edit existing ones.",
+  "homepage": "https://github.com/kefaslungu/CustomLabels",
+  "download_url": "https://github.com/kefaslungu/CustomLabels/releases/download/2026.3.1/CustomLabels-2026.3.1.nvda-addon",
+  "sha256": "0191385517727c26e24b9cb5bfc9f3db9b07606ad5a76d653ba73ac743c8861b",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-15"
+}

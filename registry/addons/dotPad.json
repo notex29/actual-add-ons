@@ -1,0 +1,13 @@
+{
+  "id": "dotPad",
+  "name": "Dot Pad",
+  "version": "0.9.96",
+  "author": "Dot Incorporated",
+  "description": "Output braille text and graphics to Dot Pad braille displays.",
+  "homepage": "https://github.com/dotincorp/nvda-addon-store",
+  "download_url": "https://github.com/dotincorp/nvda-addon-store/releases/download/0.9.96/dotPad-0.9.96.nvda-addon",
+  "sha256": "e18133957fab654c57c8f6386beecdece571b1763bf6f5098b8f787a00820ef5",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-16"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "AiSound5",
+  "name": "AiSound5 Chinese TTS Add-On For NVDA",
+  "version": "2026.5.0",
+  "author": "NVDA Contributors",
+  "description": "This is an NVDA speech synthesizer that supports Chinese and requires no other dependencies.",
+  "homepage": "https://github.com/nvdacn/AiSound5",
+  "download_url": "https://github.com/nvdacn/AiSound5/releases/download/2026.05/AiSound5-2026.05.nvda-addon",
+  "sha256": "e2c318fb7275298cdeb2c12b87e85f13c7c63d5260942c358ec6b633d4e72c21",
+  "min_nvda_version": "2021.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-08"
+}

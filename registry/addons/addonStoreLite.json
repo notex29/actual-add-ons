@@ -1,0 +1,13 @@
+{
+  "id": "addonStoreLite",
+  "name": "addon Store Lite",
+  "version": "2026.8.5",
+  "author": "Chai Chaimee",
+  "description": "Say goodbye to information overload in the Add-on Store",
+  "homepage": "https://github.com/chaichaimee/addonStoreLite",
+  "download_url": "https://github.com/chaichaimee/addonStoreLite/releases/download/2026.8.5/addonStoreLite-v2026.8.5.nvda-addon",
+  "sha256": "0e72aff2a9f1f00c5cbe383dab37b5160984b0ea18bdf13387c6a5ec9d3561c9",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-08"
+}

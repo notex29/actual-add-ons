@@ -1,0 +1,13 @@
+{
+  "id": "CustomAppModulesMapper",
+  "name": "Custom App Modules Mapper",
+  "version": "1.0.0",
+  "author": "Marlon Brandão de Sousa",
+  "description": "Lets you dynamically map any application to any existing NVDA app module, straight from the NVDA settings dialog, without writing an add-on or waiting for a mapping to be merged into NVDA.",
+  "homepage": "https://github.com/marlon-sousa/CustomAppModulesMapper",
+  "download_url": "https://github.com/marlon-sousa/CustomAppModulesMapper/releases/download/1.0.0/CustomAppModulesMapper-1.0.0.nvda-addon",
+  "sha256": "3512c8f65b71a26c5860e804ec4ceddd9916f3a9cfc2858369405e76b0348bb4",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-07-15"
+}

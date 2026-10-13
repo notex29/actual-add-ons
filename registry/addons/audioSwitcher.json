@@ -1,0 +1,13 @@
+{
+  "id": "audioSwitcher",
+  "name": "Audio Switcher",
+  "version": "2026.4.0",
+  "author": "kamal yaser",
+  "description": "Sets configured or directly selected speakers and microphones as default and announces current defaults.",
+  "homepage": "https://github.com/kamalyaser31/nvda-audio-switcher",
+  "download_url": "https://github.com/kamalyaser31/nvda-audio-switcher/releases/download/v2026.4/audioSwitcher-2026.4.nvda-addon",
+  "sha256": "be38ecadb240a8cc89d6fab74f55ced6e63866763c6b314a2831d22d437bb498",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-09-30"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tiflotecniaVoices",
+  "name": "Tiflotecnia voices for NVDA",
+  "version": "4.2.1",
+  "author": "Rui Fontes",
+  "description": "Tiflotecnia voices for NVDA NVDA driver to the Cerence Embedded TTS synth License required to use the voices.",
+  "homepage": "https://www.tiflotecnia.com",
+  "download_url": "https://github.com/ruifontes/tiflotecniaVoices/releases/download/4.2.1/tiflotecniaVoices-4.2.1.nvda-addon",
+  "sha256": "c50b643c8db0def9ae6686353999ed35de31e07dc49a914f6cd3e868d290fadd",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-06"
+}

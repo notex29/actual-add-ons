@@ -1,0 +1,13 @@
+{
+  "id": "audioVolumeControl",
+  "name": "Per-Application Volume Control",
+  "version": "2026.5.241528",
+  "author": "JoaoDEVWHADS",
+  "description": "Control the volume of individual applications using keyboard shortcuts. Press Ctrl+NVDA+Y to open the volume control dialog and adjust volume per application. Supports precise volume control with multiple increment levels and real-time announcements. Tested on NVDA 2025.3.2. Users may modify manifest.ini for other versions. Contact: https://t.me/tierryt2021",
+  "homepage": "https://github.com/JoaoDEVWHADS/nvda-audio-volume-control-application",
+  "download_url": "https://github.com/JoaoDEVWHADS/nvda-audio-volume-control-application/releases/download/2026.05.241528/audioVolumeControl-2026.05.241528.nvda-addon",
+  "sha256": "221c52e929ec4adb8d60e3e5873f904a550270d051d56a2e4ab33fb8cf38f633",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-24"
+}

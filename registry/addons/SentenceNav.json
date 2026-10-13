@@ -1,0 +1,13 @@
+{
+  "id": "SentenceNav",
+  "name": "SentenceNav",
+  "version": "2.14.2",
+  "author": "Tony Malykh",
+  "description": "Sentence Navigation addon. SentenceNav is an NVDA add-on that allows you to read text by sentences, as opposed to by paragraphs or words.",
+  "homepage": "https://github.com/mltony/nvda-sentence-nav",
+  "download_url": "https://github.com/mltony/nvda-sentence-nav/releases/download/v2.14.2/SentenceNav-2.14.2.nvda-addon",
+  "sha256": "460c57124f0bb37b8ba7cd86825733382a7baabf380e5dd3a4b1f44d7f5cc0d0",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-09"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "charDescMerge",
+  "name": "Char Desc Merge",
+  "version": "1.0.1",
+  "author": "addonWorkshop",
+  "description": "Adds ability to merge character descriptions from several localizations. For example, you can add a description of the cyrillic characters to english localization.",
+  "homepage": "https://github.com/addonWorkshop/charDescMerge",
+  "download_url": "https://github.com/addonWorkshop/charDescMerge/releases/download/v1.0.1-stable/charDescMerge-1.0.1.nvda-addon",
+  "sha256": "05f71a550d740aa7e27032371bd7b377f48c06360849c7c8628dfcdb645a5be0",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-09"
+}

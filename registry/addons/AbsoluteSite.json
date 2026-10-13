@@ -1,0 +1,13 @@
+{
+  "id": "AbsoluteSite",
+  "name": "AbsoluteSite",
+  "version": "2026.9.0",
+  "author": "Chai Chaimee",
+  "description": "Manage bookmarks, capture URLs instantly, track history, and perform quick web searches directly from NVDA. This fully accessible tool organizes your favorite websites into custom categories, assigns preferred browsers, and maximizes windows automatically for seamless browsing efficiency. Hot Keys: ALT+Backspace Single Tap : open Absolute Site Manager Double Tap : add New Site Triple Tap : All More Visited ALT+Windows+Backspace : Search Dialog",
+  "homepage": "https://github.com/chaichaimee/AbsoluteSite",
+  "download_url": "https://github.com/chaichaimee/AbsoluteSite/releases/download/2026.9.0/AbsoluteSite-v2026.9.0.nvda-addon",
+  "sha256": "1ca9023d9420c1606ee63c7337f7f30837ec87eb23476f10eec51446d2c517c6",
+  "min_nvda_version": "2024.4",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-09-01"
+}

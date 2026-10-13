@@ -1,0 +1,13 @@
+{
+  "id": "MetaTrader",
+  "name": "MetaTrader",
+  "version": "2026.1.0",
+  "author": "hamidrehzaey",
+  "description": "moves between items.",
+  "homepage": "https://github.com/hamidrehzaey/MetaTrader-nvda-addon",
+  "download_url": "https://github.com/hamidrehzaey/MetaTrader-nvda-addon/releases/download/v2026.1/MetaTrader_v2026.1.nvda-addon",
+  "sha256": "499be5ac6a03840140508bbaafff8953703877c8c6b9eb6878f3eac0290e6a25",
+  "min_nvda_version": "2022.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-08"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "xyOCR",
+  "name": "Xinyi OCR",
+  "version": "3.2.1",
+  "author": "huaiyinfeilong <huaiyinfeilong@163.com>",
+  "description": "Aggregating various offline and online OCR services.",
+  "homepage": "https://github.com/huaiyinfeilong/xyOCR",
+  "download_url": "https://github.com/huaiyinfeilong/xyOCR/releases/download/v3.2.1/xyOCR-3.2.1.nvda-addon",
+  "sha256": "0e7b0b28111bcab96d0496a11e286047930eadb74829cb6aa258aec98b34646a",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-08"
+}

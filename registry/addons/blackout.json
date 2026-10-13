@@ -1,0 +1,13 @@
+{
+  "id": "blackout",
+  "name": "Blackout - Darkens the screen except for the speech and Braille viewer",
+  "version": "2026.5.2",
+  "author": "BFW Würzburg",
+  "description": "demonstrates the information NVDA users receive, while ensuring that sighted people are not distracted by the rest of the screen. With NVDA+Alt+b the entire screen is completely darkened. - If the Speech Viewer is active, it stays visible. If it is not active, it will be automatically opened. - The Braille Viewer can be manually activated and will then also be displayed.",
+  "homepage": "https://github.com/BFW-Wuerzburg/blackout",
+  "download_url": "https://github.com/BFW-Wuerzburg/blackout/releases/download/2026.05.02/blackout-2026.05.02.nvda-addon",
+  "sha256": "7a49e1e8dd8e9209bcf8b04352dec8646bbf2fd579dc15eb2da5735079dccfb3",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-02"
+}

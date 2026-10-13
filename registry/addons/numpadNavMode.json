@@ -1,0 +1,13 @@
+{
+  "id": "numpadNavMode",
+  "name": "Numpad Nav Mode",
+  "version": "26.2.500",
+  "author": "Luke Davis, josephsl",
+  "description": "Allows switching the numpad between NVDA navigation mode, and Windows navigation mode. Especially useful if migrating from Jaws; or for laptop users preferring laptop mode, but who have a numpad and want to use it for arrow keys, etc. The add-on also gives control of numlock state when starting NVDA or changing profiles.",
+  "homepage": "https://github.com/opensourcesys/numpadNavMode/blob/master/readme.md",
+  "download_url": "https://github.com/opensourcesys/numpadNavMode/releases/download/v26.2.500-dev/numpadNavMode-26.2.500.nvda-addon",
+  "sha256": "0e1d3ab85d1f57589c5111fe913607b8908b4c66e1ce06631b23e64f5b3e4447",
+  "min_nvda_version": "2019.3",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-02"
+}

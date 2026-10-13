@@ -1,0 +1,13 @@
+{
+  "id": "objWatcher",
+  "name": "obj Watcher",
+  "version": "1.0.7",
+  "author": "Cary-rowen <manchen_0528@outlook.com>, hwf1324 <1398969445@qq.com>",
+  "description": "This NVDA add-on watches changes to attributes of navigation objects.",
+  "homepage": "https://www.nvdacn.com",
+  "download_url": "https://github.com/cary-rowen/objWatcher/releases/download/1.0.7/objWatcher-1.0.7.nvda-addon",
+  "sha256": "598b3dce6b202f1646787a6fd873207d8d52c65ae2eca3b08255360e1c7b677d",
+  "min_nvda_version": "2023.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-04-30"
+}

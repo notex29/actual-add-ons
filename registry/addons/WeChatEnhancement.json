@@ -1,0 +1,13 @@
+{
+  "id": "WeChatEnhancement",
+  "name": "PC WeChat Enhancement",
+  "version": "2.4.3",
+  "author": "Cary-Rowen <manchen_0528@outlook.com>",
+  "description": "Enhance the experience of using PC WeChat for NVDA users.",
+  "homepage": "https://www.nvdacn.com",
+  "download_url": "https://github.com/cary-rowen/WeChatEnhancement/releases/download/2.4.3/WeChatEnhancement-2.4.3.nvda-addon",
+  "sha256": "f3fc154b9c06b6bfa1daacb81421f7c37e93bef7590d0638b8b50694659e6993",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-22"
+}

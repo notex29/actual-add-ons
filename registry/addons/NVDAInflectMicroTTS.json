@@ -1,0 +1,13 @@
+{
+  "id": "NVDAInflectMicroTTS",
+  "name": "NVDAInflect Micro TTS",
+  "version": "20260821.0.0",
+  "author": "Anuj Sharma",
+  "description": "A high-quality local neural text-to-speech voice for NVDA based on the Inflect Micro v2 model created by Owen Song. The model, the ONNX Runtime and all other dependencies are bundled with the add-on, so the voice works fully offline. Speaks English with a fixed male voice at 24 kHz and offers rate, rate boost, volume, variation and seed settings, plus optional GPU acceleration via DirectML (Auto/CPU/GPU compute device choice). i use ai agent in this addon development",
+  "homepage": "https://github.com/anujj87/NVDAInflectMicroTTS",
+  "download_url": "https://github.com/anujj87/NVDAInflectMicroTTS/releases/download/dev/NVDAInflectMicroTTS-20260821.0.0.nvda-addon",
+  "sha256": "199ecac3e039e37070d6cb7df78cf69c6c197ca0589a1986e29d2ea3914f85a9",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-21"
+}

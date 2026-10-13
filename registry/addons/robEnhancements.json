@@ -1,0 +1,13 @@
+{
+  "id": "robEnhancements",
+  "name": "ROB enhancements",
+  "version": "2026.8.28",
+  "author": "Rainer Brell",
+  "description": "This extension adds new functionality to applications and provides new global help: Windows Explorer: braille now also shows the detail columns (date modified, type, size, ...) for the focused file/folder The NVDA settings allow you to specify whether the language should also read the entire line aloud. the inline rename edit box (F2) now uses a \"Rename\" label instead of repeating the file/folder name If a Markdown file (*.md) is selected in Windows Explorer or total Commander: NVDA+Alt+Space, Views the file in the NVDA browser. NVDA+Alt+Shift+Space, saves the file in HTML format. In all browsers: NVDA+Ctrl+f4, show page URL, press twice, copy to clipboard. Generally: NVDA+Shift+v, shows program name, 32/64bit, CPU usagee, version, product name Microsoft Outlook 13 or later: Shift+Alt+j, Jumps to the next folder with unread emails below the Inbox folder. Shift+Ctrl+Alt+i, Saves the current folder as Folder 1 Shift+Alt+i, Go to Folder 1 A further 4 folders can be defined and jumped to. The folders can also be in another account. The gestures for this are still freely available.",
+  "homepage": "https://github.com/rainerbrell/robenhancements",
+  "download_url": "https://github.com/RainerBrell/robEnhancements/releases/download/2026.08.28/robEnhancements-2026.08.28.nvda-addon",
+  "sha256": "8d382eab155e40349888c941d7569078f4882256ae58d0180f9f36372c7d65d2",
+  "min_nvda_version": "2024.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-08-29"
+}

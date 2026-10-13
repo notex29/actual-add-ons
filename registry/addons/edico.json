@@ -1,0 +1,13 @@
+{
+  "id": "edico",
+  "name": "EDICO Scientific Editor",
+  "version": "2026.1.0",
+  "author": "Alberto Zanella",
+  "description": "This addon provides access to the EDICO scientific editor",
+  "homepage": "https://github.com/edicoitalia/edico-nvda",
+  "download_url": "https://github.com/edicoitalia/edico-nvda/releases/download/2026.1/edico-2026.1.nvda-addon",
+  "sha256": "ff36f76758b074e7e0eca058bd5c5b3af4446453a701d1712b41db2235c73898",
+  "min_nvda_version": "2021.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-06"
+}

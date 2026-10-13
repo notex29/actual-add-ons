@@ -1,0 +1,13 @@
+{
+  "id": "NotepadPlusPlus",
+  "name": "Notepad++",
+  "version": "2026.6.1",
+  "author": "Derek Riemer <driemer.riemer@gmail.com>, Tuukka Ojala <tuukka.ojala@gmail.com>",
+  "description": "Notepad++ App Module. This addon improves the accessibility of Notepad ++. To learn more, press the add-on help button.",
+  "homepage": "https://github.com/derekriemer/nvda-notepadplusplus",
+  "download_url": "https://github.com/derekriemer/nvda-notepadPlusPlus/releases/download/2026.06.1/NotepadPlusPlus-2026.06.1.nvda-addon",
+  "sha256": "1d5e958986662d5e74108f5c338746945d563a363a9cdbff768ae0b87ac5b9c9",
+  "min_nvda_version": "2021.2",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-06-02"
+}

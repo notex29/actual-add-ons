@@ -1,0 +1,13 @@
+{
+  "id": "openLinkWith",
+  "name": "Open Link With",
+  "version": "3.3.1",
+  "author": "Ibrahim Hamadeh",
+  "description": "Extract links if found in selected, last spoken or clipboard text, display them in a list in a dialog, giving you the option to open any link with various browsers found on computer. The current context command checks selected text, then last spoken text, then clipboard, and uses the first source containing a valid link. Press the command you assotiated with the addon via input gestures, to display OpenLinkWith dialog.",
+  "homepage": "https://github.com/ibrahim-s/openLinkWith/blob/master/readme.md",
+  "download_url": "https://github.com/ibrahim-s/openLinkWith/releases/download/3.3.1/openLinkWith-3.3.1.nvda-addon",
+  "sha256": "1717e778e66dc1db07a87a9fc1d51c8a35c466b34046ba1e754ea3f9c653d5cb",
+  "min_nvda_version": "2024.2",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-30"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "systrayList",
+  "name": "SysTrayList",
+  "version": "2026.8.24",
+  "author": "Rui Batista",
+  "description": "Shows the list of buttons on the System Tray with NVDA+F11 once, twice shows running task lists.",
+  "homepage": "https://github.com/ragb/systrayList",
+  "download_url": "https://github.com/ragb/systrayList/releases/download/2026.08.24/systrayList-2026.08.24.nvda-addon",
+  "sha256": "11ee6d3fedfc6907f39759891a9de74196f3937a2c8271084a2e2f3798289ccd",
+  "min_nvda_version": "2021.1",
+  "last_tested_nvda_version": "2026.2.0",
+  "last_updated": "2026-08-24"
+}

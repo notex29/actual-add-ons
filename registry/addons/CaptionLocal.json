@@ -1,0 +1,13 @@
+{
+  "id": "CaptionLocal",
+  "name": "caption image useing local AI models",
+  "version": "0.4.0",
+  "author": "Tianze",
+  "description": "generate caption for image using local AI models, Describe the image objects browsed by NVDA, support shortcut key recognition.",
+  "homepage": "https://github.com/tianzeshi-study/CaptionLocal",
+  "download_url": "https://github.com/tianzeshi-study/CaptionLocal/releases/download/0.4.0/CaptionLocal-0.4.0.nvda-addon",
+  "sha256": "ed122888214dc35925635c6adfd8505f5380c2a35bb199b2b27172c2c5b47473",
+  "min_nvda_version": "2026.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-08-16"
+}

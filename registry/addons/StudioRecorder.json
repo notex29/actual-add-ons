@@ -1,0 +1,13 @@
+{
+  "id": "StudioRecorder",
+  "name": "Studio Recorder",
+  "version": "26.4.0",
+  "author": "Marco Steinebach",
+  "description": "Adds braille support to Studio Recorder produced by APH. Also a few additional keystrokes are implemented to ease common tasks which do not have shortcuts.",
+  "homepage": "https://github.com/MooSteinebach/StudioRecorder",
+  "download_url": "https://github.com/MooSteinebach/StudioRecorder/releases/download/26.04/StudioRecorder-26.04.nvda-addon",
+  "sha256": "6082dd9f7b5b346452c946a5cb427ecc74e434771a6b6cf2d27a5f06f43fa521",
+  "min_nvda_version": "2025.1",
+  "last_tested_nvda_version": "2026.1.0",
+  "last_updated": "2026-05-20"
+}
