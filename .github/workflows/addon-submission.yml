@@ -16,7 +16,10 @@ permissions:
 jobs:
   submit:
     name: Convert submission issue to PR
-    if: contains(github.event.issue.labels.*.name, 'addon-submission')
+    # Matches the "[submission] " title prefix the form pre-fills, so this
+    # works even before the addon-submission label exists in the repo
+    # (GitHub will not auto-apply labels that do not exist yet).
+    if: startsWith(github.event.issue.title, '[submission]')
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
