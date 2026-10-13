@@ -124,3 +124,21 @@ body:
         - label: I acknowledge that this is not a media downloader, AI chatbot wrapper, game tool, system monitor, or generic utility Windows already provides, and that if it secretly is one of those things, a humorless robot will refuse it.
     validations:
       required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        **The agreement. Read this before you hit submit, it applies to you.**
+
+        By submitting this form, you agree to the house rules:
+
+        1. **The catalog serves the screen reader.** Every entry must help someone use NVDA better: speech, braille, navigation, reading, OCR, input, or accessibility for a real application. If the add-on could be a standalone program and nobody would notice the difference, it does not belong here.
+        2. **Worth it beats plentiful.** We would rather list 190 add-ons people use than 2,000 nobody can wade through. No filler, no duplicates, no sequels.
+        3. **Original work only.** Your submission must be your add-on, or one you maintain with the author's blessing. Repackaged copies get deleted and remembered. We once caught a repack because the thief left the original author's homepage in the metadata, like a burglar leaving a business card. We check.
+        4. **English descriptions.** The catalog speaks English. If the description is in another language, the entry cannot be reviewed, which means it cannot be accepted.
+        5. **Small is a feature.** If your add-on outweighs the screen reader it plugs into, something has gone wrong and it gets rejected.
+        6. **Honest metadata.** The version must be the real version, the checksum must match the file, the download link must work. Lying to a validator has a zero percent success rate.
+
+        The unabridged version, with jokes, lives in [CONTRIBUTING.md](https://github.com/notex29/actual-add-ons/blob/main/CONTRIBUTING.md). You just read the binding part.
+
+        **Submitting this form confirms you have already read [CONTRIBUTING.md](https://github.com/notex29/actual-add-ons/blob/main/CONTRIBUTING.md) in full**, including the field-by-field requirements, the size rule, and the rejection criteria. "Nobody told me" is not accepted as a defense.
